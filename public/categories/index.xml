@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on THACCA | Thailand Creative Content Agency</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on THACCA | Thailand Creative Content Agency</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation System</title>
+      <link>http://localhost:1313/categories/automation-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/automation-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deep Learning</title>
+      <link>http://localhost:1313/categories/deep-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eco System</title>
+      <link>http://localhost:1313/categories/eco-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/eco-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Education System</title>
+      <link>http://localhost:1313/categories/education-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/education-system/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>English Learning</title>
+      <link>http://localhost:1313/categories/english-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/english-learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mathmatics Learning</title>
+      <link>http://localhost:1313/categories/mathmatics-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      <guid>http://localhost:1313/categories/mathmatics-learning/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
