@@ -1,6 +1,6 @@
 ---
 title: "เทศกาล Thailand Winter Festival"
-date: 2023-11-01s
+date: 2023-11-01
 expiryDate: 2024-01-31
 location: "ทั่วประเทศ"
 draft: false
