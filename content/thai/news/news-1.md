@@ -12,7 +12,7 @@ image: "images/news/news-1-1.jpg"
 author: "DGA"
 # taxonomy
 categories: ["Press"]
-tags: ["Soft Power", "คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ", "festivals"]
+# tags: ["Soft Power", "คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ", "festivals"]
 # type
 type: "news"
 ---
