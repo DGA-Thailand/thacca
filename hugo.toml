@@ -175,23 +175,23 @@ copyright = "Copyright &copy; 2023 Digital Government Development Agency (Public
 
 [[Languages.th.menu.main]]
 name = "อีเว้นท์"
-url = "event/"
+url = "/event/"
 weight = 1
 
 [[Languages.th.menu.main]]
 name = "ข่าวสาร"
-url = "news/"
+url = "/news/"
 weight = 2
 
 [[Languages.th.menu.main]]
 name = "บทความ"
-url = "article/"
+url = "/article/"
 weight = 3
 
 # main menu
 [[Languages.th.menu.main]]
 name = "เกี่ยวกับเรา"
-url = "about/"
+url = "/about/"
 weight = 4
 
 # [[Languages.en.menu.main]]
