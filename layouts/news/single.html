@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<!-- event single -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <!-- article image -->
+      <div class="col-12 mb-4">
+        <img style="height: 500px;width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+      </div>
+      <div class="col-12">
+        <h3 class="section-title">{{ .Title }}</h2>
+      </div>
+    </div>
+    <!-- article details -->
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+
+        {{ $taxonomy := "tags" }}
+        {{ with .GetTerms $taxonomy }}
+          <p>
+            {{ (site.GetPage $taxonomy).LinkTitle }}:
+            {{ range $k, $_ := . -}}
+              {{ if $k }}, {{ end }}
+              <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+            {{- end }}
+          </p>
+        {{ end }}
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- /event single -->
+
+{{ end }}
