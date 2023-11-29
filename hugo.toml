@@ -1,5 +1,7 @@
 ######################## default configuration ####################
 # baseURL = "http://localhost:1313/"
+defaultContentLanguage = "th"
+
 title = "THACCA | Thailand Creative Content Agency"
 theme = "educenter"
 # Default time zone for time stamps; use any valid tz database name: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
@@ -13,7 +15,7 @@ googleAnalytics = "UA-123456-78" # example: UA-123456-78, for more info, read th
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
-disableLanguages = ["fr"] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
+disableLanguages = ["en", "fr"] # example: ["fr"] for disable french language. see https://gohugo.io/content-management/multilingual/
 hasCJKLanguage = false #  If hasCJKLanguage true, auto-detect Chinese/Japanese/Korean Languages in the content. see: https://gohugo.io/getting-started/configuration/#hascjklanguage
 
 ############################# Build ##############################
@@ -31,7 +33,6 @@ target = '(css|styles|scss|sass)'
 [[build.cachebusters]]
 source = 'assets/.*\.(.*)$'
 target = '$1'
-
 
 ############################# Outputs ##############################
 [outputs]
@@ -107,7 +108,7 @@ top_header = false
 
 # Preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif" # use jpg, png, svg or gif format.
 
 # Subscription
@@ -119,7 +120,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -127,34 +128,36 @@ map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
-enable = true
+enable = false
 expire_days = 2
   
 ############################# social site ########################
-[[params.social]]
-title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "facebook"
+# icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "twitter"
+# icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "instagram"
-icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "instagram"
+# icon = "ti-instagram" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "github"
+# icon = "ti-github" # themify icon : https://themify.me/themify-icons
+# link = "#"
 
-[[params.social]]
-title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+# [[params.social]]
+# title = "linkedin"
+# icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+# link = "#"
+
+### Languages 
 
 ################################### Thai language #####################################
 [Languages.th]
@@ -164,86 +167,94 @@ contentDir = "content/thai"
 weight = 1
 
 [Languages.th.params]
-home = "Home"
+home = "หน้าหลัก"
 # copyright
 copyright = "Copyright &copy; 2023 Digital Government Development Agency (Public Organization)"
 
 ################### Thai navigation ####################
 
+[[Languages.th.menu.main]]
+name = "อีเว้นท์"
+url = "event/"
+weight = 1
+
+[[Languages.th.menu.main]]
+name = "ข่าวสาร"
+url = "news/"
+weight = 2
+
+[[Languages.th.menu.main]]
+name = "บทความ"
+url = "article/"
+weight = 3
+
 # main menu
 [[Languages.th.menu.main]]
 name = "เกี่ยวกับเรา"
 url = "about/"
-weight = 1
-
-[[Languages.th.menu.main]]
-name = "course"
-url = "course/"
-weight = 2
-
-[[Languages.th.menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = true
-
-  [[Languages.th.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher/"
-
-  [[Languages.th.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice/"
-
-  [[Languages.th.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event/"
-
-  [[Languages.th.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
-
-  [[Languages.th.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
-  
-[[Languages.th.menu.main]]
-name = "blog"
-url = "blog/"
 weight = 4
-  
-[[Languages.th.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
 
+# [[Languages.en.menu.main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
+
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   url = "teacher/"
+
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   url = "notice/"
+
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "event"
+#   url = "event/"
+
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "scholarship"
+#   url = "scholarship/"
+
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   url = "research/"
+  
+# [[Languages.en.menu.main]]
+# name = "blog"
+# url = "blog/"
+# weight = 4
+  
+# [[Languages.en.menu.main]]
+# name = "Contact"
+# url = "contact/"
+# weight = 5
 
 # footer menu
 
-[[Languages.th.menu.footer]]
-name = "teacher"
-url = "teacher/"
+# [[Languages.th.menu.footer]]
+# name = "teacher"
+# url = "teacher/"
 
-[[Languages.th.menu.footer]]
-name = "notice"
-url = "notice/"
+# [[Languages.th.menu.footer]]
+# name = "notice"
+# url = "notice/"
 
-[[Languages.th.menu.footer]]
-name = "event"
-url = "event/"
+# [[Languages.th.menu.footer]]
+# name = "event"
+# url = "event/"
 
-[[Languages.th.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
+# [[Languages.th.menu.footer]]
+# name = "scholarship"
+# url = "scholarship/"
 
-[[Languages.th.menu.footer]]
-name = "research"
-url = "research/"
-
+# [[Languages.th.menu.footer]]
+# name = "research"
+# url = "research/"
 
 ################################### English language #####################################
 [Languages.en]
@@ -257,83 +268,91 @@ home = "Home"
 # copyright
 copyright = "Copyright &copy; 2023 Digital Government Development Agency (Public Organization)"
 
-
-
 ################### English navigation ####################
+
+[[Languages.en.menu.main]]
+name = "Events"
+url = "event/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "News"
+url = "news/"
+weight = 1
+
+[[Languages.en.menu.main]]
+name = "article"
+url = "article/"
+weight = 2
 
 # main menu
 [[Languages.en.menu.main]]
 name = "About"
 url = "about/"
-weight = 1
-
-[[Languages.en.menu.main]]
-name = "course"
-url = "course/"
-weight = 2
-
-[[Languages.en.menu.main]]
 weight = 3
-name = "Pages"
-hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "teacher"
-  url = "teacher/"
+# [[Languages.en.menu.main]]
+# weight = 3
+# name = "Pages"
+# hasChildren = true
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "notice"
-  url = "notice/"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "teacher"
+#   url = "teacher/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "event"
-  url = "event/"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "notice"
+#   url = "notice/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "scholarship"
-  url = "scholarship/"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "event"
+#   url = "event/"
 
-  [[Languages.en.menu.main]]
-  parent = "Pages"
-  name = "research"
-  url = "research/"
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "scholarship"
+#   url = "scholarship/"
+
+#   [[Languages.en.menu.main]]
+#   parent = "Pages"
+#   name = "research"
+#   url = "research/"
   
-[[Languages.en.menu.main]]
-name = "blog"
-url = "blog/"
-weight = 4
+# [[Languages.en.menu.main]]
+# name = "blog"
+# url = "blog/"
+# weight = 4
   
-[[Languages.en.menu.main]]
-name = "Contact"
-url = "contact/"
-weight = 5
+# [[Languages.en.menu.main]]
+# name = "Contact"
+# url = "contact/"
+# weight = 5
 
 
 # footer menu
 
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher/"
+# [[Languages.en.menu.footer]]
+# name = "teacher"
+# url = "teacher/"
 
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice/"
+# [[Languages.en.menu.footer]]
+# name = "notice"
+# url = "notice/"
 
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event/"
+# [[Languages.en.menu.footer]]
+# name = "event"
+# url = "event/"
 
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship/"
+# [[Languages.en.menu.footer]]
+# name = "scholarship"
+# url = "scholarship/"
 
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research/"
+# [[Languages.en.menu.footer]]
+# name = "research"
+# url = "research/"
 
 
 

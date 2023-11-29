@@ -11,13 +11,4 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 
 ## ABOUT OUR JOURNY
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et.dolore magna aliqua. Ut enim ad minim veniam, quis nostrud. Lorem ipsum dolor sit amet consectetur,
-adipisicing elit. Saepe ipsa illo quod veritatis, magni debitis fugiat dolore voluptates! Consequatur,
-aliquid. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat perferendis sint optio similique.
-Et amet magni facilis vero corporis quos.
-
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum, dolor sit amet consectetur
-adipisicing elit. Ipsum a, facere fugit error accusamus est officiis vero in, nostrum laboriosam corrupti
-explicabo, cumque repudiandae deleniti perspiciatis quae consectetur enim. Laboriosam!
+ซอฟต์พาวเวอร์ (Soft Power) คือการใช้อิทธิพลทางวัฒนธรรม การทำให้คนมีส่วนร่วม การปรับเปลี่ยนพฤติกรรม การเปลี่ยนแปลงทางความคิด ซึ่งเป็นการเชื่อมโยงเรื่องการเมือง การปกครอง นโยบายสาธารณะ และความสัมพันธ์ระหว่างประเทศ เกิดขึ้นได้กับผู้คนทุกชนชั้น และสังคมการเมืองทุกรูปแบบ ทั้งยังแฝงอยู่ในกิจกรรมต่าง ๆ และเปลี่ยนแปลงไปตามบริบทของสังคม

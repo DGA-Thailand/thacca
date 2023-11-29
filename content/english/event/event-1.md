@@ -1,49 +1,32 @@
 ---
-title: "Social media and behavior economics conference"
-# Schedule page publish date
-publishDate: "2019-01-01T00:00:00Z"
-# event date
-date: "2030-03-09T15:27:17+06:00"
-# post save as draft
+title: "เทศกาล Colorful Bangkok"
+date: 2023-11-01
+expiryDate: 2024-01-31
+location: "กรุงเทพฯ"
 draft: false
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# Event image
-image: "images/events/event-1.jpg"
-# location
-location: "Dhanmondi, Dhaka"
-# entry fee
-fee: "From: $699"
-# apply url
-apply_url : "#"
-# event speaker
-speaker:
-  # speaker loop
-  - name : "Jack Mastio"
-    image : "images/event-speakers/speaker-1.jpg"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "John Doe"
-    image : "images/event-speakers/speaker-2.jpg"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "Randy Luis"
-    image : "images/event-speakers/speaker-3.jpg"
-    designation : "Teacher"
-
-  # speaker loop
-  - name : "Alfred Jin"
-    image : "images/event-speakers/speaker-4.jpg"
-    designation : "Teacher"
-
+# description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+# post thumbnail
+image: "images/news/news-2-1.webp"
+# post author
+author: "BACC"
+# taxonomy
+categories: ["Press"]
+tags: ["Soft Power", "Colorful Bangkok", "Festivals"]
 # type
 type: "event"
 ---
 
-### About Event
+กรุงเทพมหานคร และมูลนิธิหอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร (หอศิลปกรุงเทพฯ) มีนโยบายดำเนินโครงการเทศกาลศิลปะกรุงเทพ Colorful Bangkok ระหว่างเดือนพฤศจิกายน 2565 – เดือนมกราคม 2566 เพื่อร่วมกันขับเคลื่อนวาระทางศิลปวัฒนธรรม สร้างให้กรุงเทพมหานคร เป็นมหานครแห่งศิลปวัฒนธรรม ที่ได้รับการยอมรับในระดับชาติและนานาชาติ เป็นหมุดหมายสำคัญสำหรับสถานที่ท่องเที่ยวทางศิลปวัฒนธรรม อันส่งผลให้เกิดการขับเคลื่อนด้านสังคมและเศรษฐกิจต่อไป โดยมีกิจกรรมด้านทัศนศิลป์ วรรณกรรม การแสดง ดนตรี ภาพยนตร์ วัฒนธรรมชุมชน ซึ่งเป็นองค์ประกอบสำคัญของการพัฒนาเมือง และหอศิลปกรุงเทพฯ ได้จัดทำเว็บไซต์ bangkokartcity.org ซึ่งจะเป็นแหล่งรวบรวมข้อมูล กิจกรรมทางศิลปวัฒนธรรม สถานที่จัดแสดงผลงานสื่อประชาสัมพันธ์ออนไลน์ภาษาไทยและภาษาอังกฤษ ที่จะเกิดขึ้นระหว่างช่วงเทศกาลศิลปะกรุงเทพดังกล่าว เพื่อที่ผู้สนใจทุกท่าน นักท่องเที่ยว นักเรียน นักศึกษา จะสามารถสืบค้นข้อมูลกิจกรรมทางศิลปะ และกิจกรรมเชิงวัฒนธรรม ได้อย่างครบถ้วน รวดเร็ว และสะดวกในการใช้งาน
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+ทั้งนี้ เมื่อวันอังคารที่ 1 พฤศจิกายน 2565 ณ ห้องออดิทอเรียม ชั้น 5 หอศิลปกรุงเทพฯ และกรุงเทพมหานคร ได้จัดงานแถลงข่าวเทศกาล Colorful Bangkok และเปิดตัวเว็บไซต์ bangkokartcity.org นำโดยคุณชัชชาติ สิทธิพันธุ์ ผู้ว่าราชการกรุงเทพมหานคร คุณศานนท์ หวังสร้างบุญ รองผู้ว่าราชการกรุงเทพมหานคร และคุณกอบกาญจน์ วัฒนวรางกูร ประธานกรรมการมูลนิธิหอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร ได้ร่วมกล่าวถึงเทศกาล Colorful Bangkok รายละเอียดเทศกาล ไฮไลท์ของกิจกรรมที่จะจัดขึ้นตลอด 3 เดือนของเทศกาล Colorful Bangkok รวมทั้งความร่วมมือของภาคีเครือข่ายในกรุงเทพฯ ที่เข้าร่วมกิจกรรม และถือโอกาสเปิดตัวเว็บไซต์ bangkokartcity.org ที่จะเป็นดั่งก้าวแรกในการสร้างกรุงเทพมหานคร ให้เป็นมหานครแห่งศิลปวัฒนธรรม ทั้งนี้ได้รับเกียรติจากคณะกรรมการมูลนิธิและคณะกรรมการบริหารหอศิลปวัฒนธรรมแห่งกรุงเทพมหานคร ตัวแทนจากภาคีเครือข่ายองค์กรด้านศิลปวัฒนธรรมทั้งภาครัฐ ภาคเอกชน และสื่อมวลชน เข้าร่วมงานแถลงข่าวในครั้งนี้
+
+![ฤดูกาลแห่งศิลปะสร้างสรรค์](/images/news/news-2-2.webp)
+
+![ชมแสงสีที่จะส่องให้เมืองมีชีวิตตลอด 3 เดือน](/images/news/news-2-3.webp)
+
+![ชวนเที่ยวเทศกาลดนตรี และฟังเพลงทั่วกรุง](/images/news/news-2-4.webp)
+
+ที่มา https://bacc.or.th/event/3076.html

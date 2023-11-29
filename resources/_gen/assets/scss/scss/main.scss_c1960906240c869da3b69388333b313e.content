@@ -205,7 +205,7 @@ a h4:hover {
   outline: 0; }
 
 .section {
-  padding-top: 90px;
+  padding-top: 120px;
   padding-bottom: 90px; }
   .section-sm {
     padding-top: 40px;
@@ -449,7 +449,7 @@ textarea.form-control {
     transform-origin: top; }
 
 .navigation {
-  background: linear-gradient(to right, transparent 0%, #ee481f 100%);
+  background: #ee481f;
   transition: .2s ease; }
   @media (max-width: 991px) {
     .navigation {
