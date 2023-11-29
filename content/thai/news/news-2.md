@@ -12,7 +12,7 @@ image: "images/news/news-3-1.webp"
 author: "THAIGOV"
 # taxonomy
 categories: ["Press"]
-tags: ["Soft Power","คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ"]
+# tags: ["Soft Power","คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ"]
 # type
 type: "news"
 ---
