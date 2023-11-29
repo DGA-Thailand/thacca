@@ -30,7 +30,7 @@
               <i class="ti-calendar text-primary icon-md mr-2"></i>
               <div class="text-left">
                 <h6 class="mb-0">{{ i18n "date" | upper}}</h6>
-                <p class="mb-0">{{ .Date.Format "02 Jan 2006"}} - {{ .ExpiryDate.Format "02 Jan 2006"}}</p>
+                <p class="mb-0">{{ .Date.Format ":date_full"}} - {{ .ExpiryDate.Format ":date_full"}}</p>
               </div>
             </div>
           </li>
