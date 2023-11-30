@@ -52,11 +52,11 @@
 }
 
 .btn-primary {
-  color: $white;
+  color: $text-color-dark; // $white;
   background-color: $primary-color;
 
   &::before {
-    background-color: $white;
+    background-color: $text-color-dark; // $white;
   }
 
   &:active,
