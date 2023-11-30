@@ -64,9 +64,9 @@
   &.focus,
   &:focus,
   &.active {
-    color: $text-color-dark; // !important;
+    color: $text-color-dark !important;
     background-color: darken($color: $primary-color, $amount: 10) !important;
-    border-color: $border-color; // darken($color: $primary-color, $amount: 10) !important;
+    border-color: $border-color !important; // darken($color: $primary-color, $amount: 10) !important;
   }
 }
 
@@ -93,7 +93,7 @@
 .btn-light {
   color: $primary-color;
   background-color: $border-color; // $white;
-  border: 1px solid $white;
+  border: 1px solid $border-color; // $white;
 
   &::before {
     background-color: $primary-color;
@@ -104,7 +104,7 @@
   &.focus,
   &:focus,
   &.active {
-    color: $text-color-dark; // $white !important;
+    color: $text-color-dark !important; // $white !important;
     background-color: $white !important;
     border: 1px solid $white !important;
   }
