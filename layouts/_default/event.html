@@ -9,6 +9,7 @@
     <p><i class="ti-location-pin text-primary mr-2"></i>{{ .Params.Location | markdownify }}</p>
     -->
     <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p><i class="ti-duration"></i>{{ .Date.Format "02 Jan 2006"}} - {{ .ExpiryDate.Format "02 Jan 2006"}}</p>
+    <p><i class="ti-duration"></i>
+      {{ .Date | time.Format ":date_medium" }} - {{ .ExpiryDate | time.Format ":date_medium" }}</p>
   </div>
 </div>

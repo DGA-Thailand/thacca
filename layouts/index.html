@@ -68,7 +68,7 @@
         <p>{{ .content | markdownify }}</p>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-outline-primary">{{ .label }}</a>
+        <a href="{{ .link | absLangURL }}" class="btn is-danger is-rounded btn-sm">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>

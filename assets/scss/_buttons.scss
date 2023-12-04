@@ -109,3 +109,12 @@
     border: 1px solid $white !important;
   }
 }
+
+.btn.is-danger {
+  background-color: $btn-is-danger;
+  color: $white;
+}
+
+.btn.is-rounded {
+  border-radius: 9999px;
+}
