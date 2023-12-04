@@ -1,9 +1,10 @@
-<article class="card rounded-0 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
+<article class="card rounded-0
+  h-100 border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
   <div class="embed-responsive embed-responsive-21by9">
     <img class="card-img-top rounded-0 embed-responsive-item" 
       src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
   </div>
-  <div class="card-body">
+  <div class="card-body border-bottom-0">
     <!-- post meta -->
       <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
       <p class="card-text">{{ .Summary | truncate 100 }}</p>
@@ -18,6 +19,8 @@
           href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
         -->
       </ul>
+  </div>
+  <div class="card-footer border-top-0 text-center">
     <a href="{{ .Permalink }}" class="btn is-danger is-rounded btn-sm">
       {{ i18n "read_more" }}
     </a>

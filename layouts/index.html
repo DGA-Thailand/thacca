@@ -158,7 +158,8 @@
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.event.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{`event` | relLangURL }}" class="btn btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
+            <a href="{{`event` | relLangURL }}" 
+              class="btn is-danger is-rounded btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
           </div>
         </div>
       </div>
@@ -188,7 +189,14 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ $data.homepage.news.title }}</h2>
+        <div class="d-flex align-items-center section-title justify-content-between">
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.news.title }}</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div>
+            <a href="{{`news` | relLangURL }}" 
+              class="btn is-danger is-rounded btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
+          </div>
+        </div>
       </div>
     </div>
     <div class="row justify-content-left">
@@ -210,7 +218,14 @@
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <h2 class="section-title">{{ $data.homepage.article.title }}</h2>
+        <div class="d-flex align-items-center section-title justify-content-between">
+          <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.article.title }}</h2>
+          <div class="border-top w-100 border-primary d-none d-sm-block"></div>
+          <div>
+            <a href="{{`article` | relLangURL }}" 
+              class="btn is-danger is-rounded btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
+          </div>
+        </div>
       </div>
     </div>
     <div class="row justify-content-left">
