@@ -52,7 +52,7 @@
 }
 
 .btn-primary {
-  color: $text-color-dark; // $white;
+  color: $text-color-dark !important; // $white;
   background-color: $primary-color;
 
   &::before {
@@ -71,9 +71,9 @@
 }
 
 .btn-outline-primary {
-  color: $primary-color;
+  color: $text-color-dark; 
   background-color: transparent;
-  border: 1px solid $primary-color;
+  border: 1px solid $border-color;
 
   &::before {
     background-color: $white;
