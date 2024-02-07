@@ -1,7 +1,7 @@
 ---
 title: "คณะกรรมการพัฒนาซอฟต์พาวเวอร์แห่งชาติ เคาะ 5.164 ล้านบาท ดันอุตสาหกรรมซอฟต์พาวเวอร์ 11 ด้าน"
 date: 2023-11-30
-draft: false
+draft: true
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
 # meta description

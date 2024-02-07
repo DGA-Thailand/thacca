@@ -98,7 +98,7 @@ author = "Digital Government Development Agency (Public Organization)"
 # contact info
 address = ""
 mobile = "1111"
-email = "info@thacca.com"
+email = "contact@thacca.go.th"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
@@ -174,9 +174,9 @@ copyright = "Copyright &copy; 2023 Digital Government Development Agency (Public
 ################### Thai navigation ####################
 
 [[Languages.th.menu.main]]
-name = "อีเว้นท์"
-url = "/event/"
-weight = 1
+#name = "กรรมการ"
+#url = "/people/"
+#weight = 1
 
 [[Languages.th.menu.main]]
 name = "ข่าวสาร"

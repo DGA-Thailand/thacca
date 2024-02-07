@@ -1,7 +1,7 @@
 ---
 title: "นายกฯ ประชุมคณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาตินัดแรก มอบ “แพทองธาร” เป็นประธานเดินหน้าขับเคลื่อนซอฟต์พาวเวอร์ กำชับหน่วยงานรัฐและเอกชน เตรียมกิจกรรมส่งเสริมการท่องเที่ยว"
 date: 2023-10-03
-draft: false
+draft: true
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
 # meta description

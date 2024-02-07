@@ -1,7 +1,7 @@
 ---
 title: "คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ เปิดตัวเทศกาลรับลมหนาว “Thailand Winter Festivals” สร้างปรากฏการณ์เฟสติวัลทั่วประเทศส่งท้ายปี 2566"
 date: 2023-11-24
-draft: false
+draft: true
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
 # meta description
