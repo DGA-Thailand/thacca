@@ -1,6 +1,6 @@
 ################################# Slider #####################################
 slider:
-  enable : true
+  enable : false
   bg_image : "images/thacca-banner.jpg"
   slider_item:
     # slider item loop
