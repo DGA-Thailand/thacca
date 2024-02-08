@@ -57,6 +57,8 @@
 {{ end }}
 <!-- /banner-feature -->
 
+&nbsp;
+
 <!-- about us -->
 {{ if $data.homepage.about.enable }}
 {{ with $data.homepage.about }}
@@ -185,15 +187,15 @@
 
 <!-- news -->
 {{ if $data.homepage.news.enable }}
-<section class="section">
+<section class="section bg-gray pl-4 pr-4">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.news.title }}</h2>
           <div class="border-top w-100 border-primary d-none d-sm-block"></div>
           <div>
-            <a href="{{`news` | relLangURL }}" 
+            <a href="{{`article` | relLangURL }}" 
               class="btn is-danger is-rounded btn-sm btn-outline-primary ml-sm-3 d-none d-sm-block text-nowrap">{{ i18n "see_all" }}</a>
           </div>
         </div>
@@ -202,9 +204,9 @@
     <div class="row justify-content-left">
       <!-- blog post -->
       {{ range first 3 (where site.RegularPages "Type" "news")}}
-      <article class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
-        {{ .Render "news" }}
-      </article>
+      <div class="row no-gutters">
+        {{ .Render "article" }}
+      </div>
       {{ end }}
     </div>
   </div>
@@ -214,9 +216,9 @@
 
 <!-- articles -->
 {{ if $data.homepage.article.enable }}
-<section class="section bg-gray">
+<section class="section pl-4 pr-4">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-center">
       <div class="col-12">
         <div class="d-flex align-items-center section-title justify-content-between">
           <h2 class="mb-0 text-nowrap mr-3">{{ $data.homepage.article.title }}</h2>
@@ -231,9 +233,9 @@
     <div class="row justify-content-left">
       <!-- blog post -->
       {{ range first 3 (where site.RegularPages "Type" "article")}}
-      <article class="col-lg-4 col-sm-6 mb-5 mb-lg-0">
+      <div class="row no-gutters">
         {{ .Render "article" }}
-      </article>
+      </div>
       {{ end }}
     </div>
   </div>

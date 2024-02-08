@@ -5,14 +5,14 @@ draft: false
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-# description : "คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ มีมติในที่ประชุม ครั้งที่ 1/2567 เห็นชอบ อนุมัติงบประมาณสนับสนุนภาพยนตร์ไทยเข้าร่วมเทศกาลภาพยนตร์ต่างประเทศ 3 เทศกาลใหญ่ "
+# description : "เมื่อวันที่ 9 มกราคม 2567 คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ มีมติในที่ประชุม ครั้งที่ 1/2567 “เห็นชอบ” อนุมัติงบประมาณสนับสนุนภาพยนตร์ไทยเข้าร่วมเทศกาลภาพยนตร์ต่างประเทศ 3 เทศกาลใหญ่"
 # post thumbnail
-image: "images/news/news-3-2.jpg"
+image: "images/news/rotterdam-film-festival.jpg"
 # post author
-author: "TGOV"
+author: "THACCAOFFICIAL"
 # taxonomy
 categories: ["Press"]
-# tags: ["Soft Power","คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ"]
+tags: ["Film"]
 # type
 type: "news"
 ---

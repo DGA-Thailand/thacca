@@ -93,7 +93,7 @@ event:
 
 ############################# event ################################
 news:
-  enable : false
+  enable : true
   title : "ข่าวสารประชาสัมพันธ์"
   # event item comes from "content/**/event" folder.
 
@@ -121,6 +121,6 @@ funfacts:
 
 ############################# blog ################################
 article:
-  enable : false
+  enable : true
   title : "บทความ"
   # blog item comes from "content/**/blog" folder.

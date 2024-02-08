@@ -10,8 +10,11 @@
       </div>
       <div class="col-12">
         <h3 class="section-title">{{ .Title }}</h2>
+        
+        {{ i18n "date" | upper}} {{ .Date | time.Format ":date_medium" }}
       </div>
     </div>
+    &nbsp;
     <!-- article details -->
     <div class="row">
       <div class="col-12 mb-50 content">

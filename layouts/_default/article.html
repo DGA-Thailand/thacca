@@ -1,26 +1,11 @@
-<article class="card 
-  h-100 border-bottom border-primary border-top-0 border-left-0 border-right-0 hover-shadow">
-  <div class="embed-responsive embed-responsive-21by9">
-    <img class="card-img-top rounded-0 embed-responsive-item" 
-      src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+<div class="row py-2 no-gutters">
+  <div class="col-sm-6 col-md-4 col-lg-3 pr-4 py-2">
+    <img class="img-fluid" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" />
   </div>
-  <div class="card-body">
-    <!-- post meta -->
-      <h4 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-    <p class="card-text">{{ .Summary | truncate 100 }}</p>
-    <ul class="list-inline mb-3">
-      <!-- post date -->
-      <li class="list-inline-item mr-3 ml-0"><i class="ti-calendar"></i>
-        {{ .PublishDate | time.Format ":date_medium" }}</li>
-      <!-- author
-      <li class="list-inline-item mr-3 ml-0"><i class="ti-user"></i> <a
-        href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
-      -->
-    </ul>
-  </div>
-  <div class="card-footer border-top-0 text-center">
+  <div class="col-sm-6 col-md-8 col-lg-9">
+    <h4 class="">{{ .Title }}</h4>
+    <p  class="group inner list-group-item-text">{{ .Summary | truncate 100 }}</p>
     <a href="{{ .Permalink }}" class="btn is-danger is-rounded btn-sm">
       {{ i18n "read_more" }}
     </a>
-  </div>
-</article>
+</div>

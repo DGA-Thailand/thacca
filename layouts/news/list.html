@@ -1,8 +1,9 @@
 {{ define "main" }}
-
+&nbsp;
 <!-- article -->
 <section class="section">
   <div class="container">
+    <div class="row">
       <div class="col-12">
           <h2 class="section-title">ข่าวสารประชาสัมพันธ์</h2>
         </div>
@@ -10,7 +11,7 @@
       <div class="row">
       {{ range .Data.Pages }}
       <!-- article item -->
-      <div class="col-lg-4 col-sm-6 mb-4">
+      <div class="col-lg-6 col-sm-6 mb-6">
         {{ .Render "news" }}
       </div>
       {{ end }}

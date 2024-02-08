@@ -6,7 +6,7 @@ draft: false
 # about image
 image: "images/thacca-banner.jpg"
 # meta description
-type: article
+# type: 
 ---
 
 #### ซอฟต์พาวเวอร์คืออะไร? 
