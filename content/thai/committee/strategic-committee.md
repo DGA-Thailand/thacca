@@ -1,6 +1,6 @@
 ---
 title: "คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ"
-date: 2024-02-06
+date: 2024-02-08
 draft: false
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"

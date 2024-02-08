@@ -102,7 +102,9 @@ email = "contact@thacca.go.th"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "" # your id
+google_analitycs_id = "G-Y91RTXE7VX" # your id
+gtm_id = "G-Y91RTXE7VX"
+gtm_ga = true
 # top header
 top_header = false
 

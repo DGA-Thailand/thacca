@@ -5,13 +5,26 @@
       <img style="width: 100%;object-fit: cover;" src="/images/committee/committees.jpg" alt="{{ .Title }}" class="img-fluid w-100 pb-4">
     </div>
     <div class="content">
-      <h2 class="section-title">คณะกรรมการ และคณะอนุกรรมการที่เกี่ยวข้อง</h2>
-    </div>
+      <h3 class="section-title">คณะกรรมการ</h3>
+      <ul>
+        <li><a href="/committee/strategic-committee/">คณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ</a></li>
+        <li><a href="/committee/development-committee/">คณะกรรมการพัฒนาซอฟต์พาวเวอร์แห่งชาติ</a></li>
+      </ul>
 
-    <!-- committee -->
-    {{ range .Data.Pages }}
-      - <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-    {{ end }}
+      <h3 class="section-title">คณะอนุกรรมการในแต่ละด้าน</h3>
+      <ul>
+      {{ range where .Data.Pages "Params.tags" "intersect" (slice "Subcommittee") }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+      </ul>
+
+      <h3 class="section-title">คณะอนุกรรมการอื่น ๆ</h3>
+      <ul>
+      {{ range where .Data.Pages "Params.tags" "intersect" (slice "SpecialSubcommittee") }}
+        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+      {{ end }}
+      </ul>
+
   </div>
 </section>
 
