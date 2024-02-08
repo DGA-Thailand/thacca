@@ -97,7 +97,7 @@ description = "THACCA Website"
 author = "Digital Government Development Agency (Public Organization)"
 # contact info
 address = ""
-mobile = "1111"
+mobile = ""
 email = "contact@thacca.go.th"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -132,15 +132,15 @@ enable = false
 expire_days = 2
   
 ############################# social site ########################
-# [[params.social]]
-# title = "facebook"
-# icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "https://www.facebook.com/thaccaofficial"
 
-# [[params.social]]
-# title = "twitter"
-# icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
-# link = "#"
+[[params.social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/thaccaofficial"
 
 # [[params.social]]
 # title = "instagram"
@@ -174,9 +174,9 @@ copyright = "Copyright &copy; 2023 Digital Government Development Agency (Public
 ################### Thai navigation ####################
 
 [[Languages.th.menu.main]]
-#name = "กรรมการ"
-#url = "/people/"
-#weight = 1
+name = "กรรมการ"
+url = "/committee/"
+weight = 1
 
 [[Languages.th.menu.main]]
 name = "ข่าวสาร"
