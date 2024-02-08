@@ -94,7 +94,7 @@ link = "/plugins/google-map/gmap.js"
 logo = "/images/logo.png"
 # Meta data
 description = "THACCA Website"
-author = "Digital Government Development Agency (Public Organization)"
+author = "Strategic Transformation Office & Digital Government Development Agency (Public Organization)"
 # contact info
 address = ""
 mobile = ""
@@ -181,7 +181,7 @@ weight = 1
 [Languages.th.params]
 home = "หน้าหลัก"
 # copyright
-copyright = "Copyright &copy; 2023 Digital Government Development Agency (Public Organization)"
+copyright = "Copyright &copy; 2023 Strategic Transformation Office & Digital Government Development Agency (Public Organization)"
 
 ################### Thai navigation ####################
 

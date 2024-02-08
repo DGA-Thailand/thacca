@@ -11,7 +11,7 @@ draft: false
 # post author
 # author: "CEA"
 # taxonomy
-tags: ["Subommittee"]
+tags: ["Subcommittee"]
 # type
 # type: "article"
 ---
