@@ -1,20 +1,17 @@
 ---
-title: "“สงกรานต์ไทย” ได้เป็นมรดกทางวัฒนธรรมที่จับต้องไม่ได้อย่างเป็นทางการแล้ว รัฐบาลจะทำอะไรต่อ?"
-date: 2024-02-06
 draft: false
-# page title background image
-# bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-# description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-image: "/images/article/songkran.jpg"
-# post author
-author: "CEA"
-# taxonomy
-categories: ["Article"]
-tags: ["Soft Power"]
-# type
-type: "article"
+author: CEA
+title: “สงกรานต์ไทย” ได้เป็นมรดกทางวัฒนธรรมที่จับต้องไม่ได้อย่างเป็นทางการแล้ว
+  รัฐบาลจะทำอะไรต่อ?
+image: /images/article/songkran.jpg
+date: 2024-02-06
+description: ยูเนสโก (UNESCO) มอบประกาศนียบัตรรับรองประเพณีสงกรานต์ในประเทศไทย
+  (Songkran in Thailand) เป็นมรดกภูมิปัญญาอย่างเป็นทางการแล้ว
+tags:
+  - Festival
+type: article
+categories:
+  - Article
 ---
 
 ยูเนสโก (UNESCO) มอบประกาศนียบัตรรับรองประเพณีสงกรานต์ในประเทศไทย (Songkran in Thailand) เป็นมรดกภูมิปัญญาอย่างเป็นทางการแล้ว หลังจากเมื่อวันที่ 6 ธันวาคม 2566 ได้ขึ้นทะเบียนให้ “สงกรานต์ในประเทศไทย” เป็น “มรดกภูมิปัญญาทางวัฒนธรรม” ที่จับต้องไม่ได้ของมนุษยชาติ (the Intangible Cultural Heritage of Humanity) ต่อจาก โขน นวดไทย และโนรา
