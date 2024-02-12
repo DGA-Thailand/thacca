@@ -82,18 +82,31 @@
 {{ if site.Params.cookies.enable }}
 <script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/2.2.1/js.cookie.min.js"></script>
 <div id="js-cookie-box" class="cookie-box cookie-box-hide">
-	This site uses cookies. By continuing to use this website, you agree to their use. <span id="js-cookie-button" class="btn btn-sm btn-outline-primary ml-2">I Accept</span>
+	{{ i18n "cookie_message" }} 
+  <span id="js-cookie-button-accept" class="btn btn-sm btn-outline-primary ml-2 text-white">
+    {{ i18n "cookie_button_accept" }}
+  </span>
+  <span id="js-cookie-button-deny" class="btn btn-sm btn-outline-primary ml-2 text-white">
+    {{ i18n "cookie_button_deny" }}
+  </span>
 </div>
 <script>
 	(function ($) {
 		const cookieBox = document.getElementById('js-cookie-box');
-		const cookieButton = document.getElementById('js-cookie-button');
-		if (!Cookies.get('cookie-box')) {
+		const cookieButton_accept = document.getElementById('js-cookie-button-accept');
+		const cookieButton_deny = document.getElementById('js-cookie-button-deny');
+		if (!Cookies.get('consent-granted')) {
 			cookieBox.classList.remove('cookie-box-hide');
-			cookieButton.onclick = function () {
-				Cookies.set('cookie-box', true, {
+			cookieButton_accept.onclick = function () {
+        gtag('consent', 'update', { 
+          'analytics_storage': 'granted'
+        });
+				Cookies.set('consent-granted', true, {
 					expires: {{ site.Params.cookies.expire_days }}
 				});
+				cookieBox.classList.add('cookie-box-hide');
+			};
+			cookieButton_deny.onclick = function () {
 				cookieBox.classList.add('cookie-box-hide');
 			};
 		}

@@ -11,7 +11,7 @@ paginate = 6 # see https://gohugo.io/extras/pagination/
 # post excerpt
 summaryLength = 10 # see https://gohugo.io/content-management/excerpts/
 # google analytics
-googleAnalytics = "G-Y91RTXE7VX" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
+# googleAnalytics = "G-Y91RTXE7VX" # example: UA-123456-78, for more info, read the article https://support.google.com/analytics/answer/1008080?hl=en
 # disqus short name
 disqusShortname = "themefisher-template" # we use disqus to show comments in blog posts . To install disqus please follow this tutorial https://portfolio.peter-baumgartner.net/2017/09/10/how-to-install-disqus-on-hugo/
 # disable language
@@ -102,9 +102,9 @@ email = "contact@thacca.go.th"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
-google_analitycs_id = "G-Y91RTXE7VX" # your id
-gtm_id = "G-Y91RTXE7VX"
-gtm_ga = true
+# google_analitycs_id = "G-Y91RTXE7VX" # your id
+# gtm_id = "G-Y91RTXE7VX"
+# gtm_ga = true
 # top header
 top_header = false
 
@@ -130,7 +130,7 @@ map_marker = "images/marker.png" # marker size 37*55 px
 
 # cookies
 [params.cookies]
-enable = false
+enable = true
 expire_days = 2
   
 ############################# social site ########################

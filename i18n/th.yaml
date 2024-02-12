@@ -19,6 +19,15 @@
 - id: contact_us
   translation: Contact Us
 
+- id: cookie_button_accept
+  translation: 'ยอมรับ'
+
+- id: cookie_button_deny
+  translation: 'ปฏิเสธ'
+
+- id: cookie_message
+  translation: 'เราใช้คุกกี้เพื่อพัฒนาประสิทธิภาพ และประสบการณ์ที่ดีในการใช้เว็บไซต์ของคุณ คุณสามารถศึกษารายละเอียดได้ที่ นโยบายคุ้กกี้'
+
 - id: latest_article
   translation: Latest Article
 

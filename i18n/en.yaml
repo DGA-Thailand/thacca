@@ -19,6 +19,12 @@
 - id: contact_us
   translation: Contact Us
 
+- id: cookie_button
+  translation: "I Accept"
+
+- id: cookie_message
+  translation: "This site uses cookies. By continuing to use this website, you agree to their use."
+
 - id: latest_article
   translation: Latest Article
 
