@@ -1,20 +1,14 @@
 {{ define "main" }}
+
 <!-- tags -->
 <section class="section">
   <div class="container">
     <h3 class="section-title pt-4">คำสำคัญ : {{ .Title }}</h3>
-    <div class="row">
-      <div class="col-lg-12 order-2 order-lg-12">
-        <div class="row">
-          <!-- blog post -->
-          {{ $p := slice .Title }}
-          {{ range where .Data.Pages ".Params.tags" "intersect" $p }}
-          <div class="col-sm-6 mb-5">
-            {{ .Render "news" }}
-          </div>
-          {{ end }}
-        </div>
-      </div>
+    <div class="row pl-4 col-12">
+      {{ $p := slice .Title }}
+        {{ range where .Data.Pages ".Params.tags" "intersect" $p }}
+          {{ .Render "news" }}
+      {{ end }}
     </div>
   </div>
 </section>

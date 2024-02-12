@@ -12,7 +12,8 @@ image: "images/news/rotterdam-film-festival.jpg"
 author: "THACCAOFFICIAL"
 # taxonomy
 categories: ["Press"]
-tags: ["Film"]
+tags:
+  - film
 # type
 type: "news"
 ---

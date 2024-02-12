@@ -6,7 +6,8 @@ image: "images/news/tibe-book-exhibition-2024.jpeg"
 # post author
 author: "THAIGOV"
 # taxonomy
-tags: ["TAICCA", "TiBE24", "Book", "Publishing"]
+tags: 
+  - book
 type: "news"
 ---
 

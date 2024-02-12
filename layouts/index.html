@@ -209,7 +209,7 @@
       <!-- blog post -->
       {{ range first 3 (where site.RegularPages "Type" "news")}}
       <div class="row no-gutters">
-        {{ .Render "article" }}
+        {{ .Render "news" }}
       </div>
       {{ end }}
     </div>
