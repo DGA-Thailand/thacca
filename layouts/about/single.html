@@ -5,7 +5,11 @@
     <div class="row">
       <!-- article image -->
       <div class="col-12">
-        <img style="width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+        {{ if isset .Params "image" }}
+          <img style="width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+        {{ else }}
+          &nbsp;
+        {{ end }}
       </div>
       <div class="col-12">
         &nbsp;
