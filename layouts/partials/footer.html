@@ -101,16 +101,19 @@
 		if (!Cookies.get('consent-granted')) {
 			cookieBox.classList.remove('cookie-box-hide');
 			cookieButton_accept.onclick = function () {
-        gtag('consent', 'update', { 
-          'analytics_storage': 'granted'
-        });
 				Cookies.set('consent-granted', true, {
 					expires: {{ site.Params.cookies.expire_days }}
 				});
 				cookieBox.classList.add('cookie-box-hide');
 			};
 			cookieButton_deny.onclick = function () {
-				cookieBox.classList.add('cookie-box-hide');
+          gtag('consent', 'default', {
+            'ad_storage': 'denied',
+            'ad_user_data': 'denied',
+            'ad_personalization': 'denied',
+            'analytics_storage': 'denied'
+          });
+  				cookieBox.classList.add('cookie-box-hide');
 			};
 		}
 	})(jQuery);
