@@ -3,6 +3,11 @@
 <!-- event single -->
 <section class="section">
   <div class="container">
+    {{ if isset .Params "image"}}
+    <div class="col-12 mb-4">
+      <img style="width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+    </div>
+    {{ end }}
     <div class="row">
       <div class="col-12">
         <h3 class="section-title">{{ .Title }}</h2>
