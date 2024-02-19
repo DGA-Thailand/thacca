@@ -7,7 +7,7 @@ draft: false
 # meta description
 # description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # post thumbnail
-# image: "images/article/songkran.jpg"
+image: "/images/committee/game-subcommittee.jpg"
 # post author
 # author: "CEA"
 # taxonomy
