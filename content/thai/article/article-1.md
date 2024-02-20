@@ -8,7 +8,8 @@ date: 2024-02-06
 description: ยูเนสโก (UNESCO) มอบประกาศนียบัตรรับรองประเพณีสงกรานต์ในประเทศไทย
   (Songkran in Thailand) เป็นมรดกภูมิปัญญาอย่างเป็นทางการแล้ว
 tags:
-  - Festival
+  - festival
+  - songkarn
 type: article
 categories:
   - Article
