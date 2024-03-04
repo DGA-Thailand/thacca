@@ -11,7 +11,16 @@
     {{ if isset .Params "date" }}
       {{ .Date | time.Format ":date_medium" }}
     {{ end }}
-    <p  class="group inner list-group-item-text">{{ .Summary | truncate 100 }}</p>
+    <p  class="group inner list-group-item-text">{{ .Summary | truncate 100 }}
+      <br />
+    {{ $taxonomy := "tags" }}
+    {{ with .GetTerms $taxonomy }}
+        {{ range $k, $_ := . -}}
+          {{ if $k }}, {{ end }}
+          <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+        {{- end }}
+    {{ end }}
+    </p>
     <a href="{{ .Permalink }}" class="btn is-danger is-rounded btn-sm">
       {{ i18n "read_more" }}
     </a>
