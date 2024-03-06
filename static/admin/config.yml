@@ -2,8 +2,8 @@ backend:
   name: github
   repo: DGA-Thailand/thacca
   branch: main # Branch to update (optional; defaults to master)
-media_folder: static/img
-public_folder: /img
+media_folder: static/images
+public_folder: /images
 slug:
   encoding: 'unicode'
   sanitize_replacement: '-'
