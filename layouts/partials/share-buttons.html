@@ -34,7 +34,7 @@
   {{ $icon = .Site.Params.ShareButtons.Icon }}
 {{ end }}
 
-{{ $pageURL := .Permalink | safeURL }} {{/*urlquery is undocumented, but maybe should be used here instead*/}}
+{{ $pageURL := .Permalink | absURL }} {{/*urlquery is undocumented, but maybe should be used here instead*/}}
 {{ $pageTitle := .Title | safeHTML }}
 
 {{ $buttonMargin := "0.5em" }}

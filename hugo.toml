@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://thacca.go.th/"
+# baseURL = "http://thacca.go.th/"
 defaultContentLanguage = "th"
 
 title = "THACCA | Thailand Creative Culture Agency"
