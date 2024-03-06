@@ -169,6 +169,12 @@ link = "https://www.youtube.com/@thaccaofficial"
 # icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
 # link = "#"
 
+### Share Button
+[params.shareButtons]
+size = "small"
+icon = "solid"
+buttonMargin = "0.2em"
+networks = ["facebook", "twitter"]
 ### Languages 
 
 ################################### Thai language #####################################
