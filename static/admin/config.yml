@@ -18,7 +18,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/article/' }
+      - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/article/', public_folder: '/images/article/' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "arts", "book", "design", "fashion", "festival", "film", "food", "music", "series", "sport", "tourism"], widget: "select", multiple: true }
@@ -33,7 +33,7 @@ collections:
       preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/news/' }
+      - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/news/', public_folder: '/images/news/' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "arts", "book", "design", "fashion", "festival", "film", "food", "music", "series", "sport", "tourism"], widget: "select", multiple: true }
@@ -48,6 +48,6 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/about/' }
+      - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/about/', public_folder: '/images/about/' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
