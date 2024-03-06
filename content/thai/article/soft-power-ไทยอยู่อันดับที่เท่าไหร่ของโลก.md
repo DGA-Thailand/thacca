@@ -1,6 +1,6 @@
 ---
 title: Soft Power ไทยอยู่อันดับที่เท่าไหร่ของโลก ?
-image: images/article/global-softpowe-index-2024.jpeg
+image: /static/images/article/global-softpowe-index-2024.jpeg
 date: 2024-03-06T10:18:35.845Z
 description: ผลการจัดอันดับ Soft Power ของประเทศต่าง ๆ ทั่วโลกในปี 2024
   ออกมาแล้ว โดย Brand Finance องค์กรที่เป็นผู้สำรวจได้เปิดเผยผ่าน รายงาน Global
