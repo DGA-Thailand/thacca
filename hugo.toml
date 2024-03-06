@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-# baseURL = "http://localhost:1313/"
+baseURL = "http://thacca.go.th/"
 defaultContentLanguage = "th"
 
 title = "THACCA | Thailand Creative Culture Agency"
