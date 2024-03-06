@@ -28,7 +28,6 @@ collections:
     folder: 'content/thai/news'
     create: true
     identifier_field: 'title'
-    create: true
     slug: "{{slug}}"
     editor:
       preview: true
@@ -44,7 +43,6 @@ collections:
     folder: 'content/thai/about'
     create: true
     identifier_field: 'title'
-    create: true
     slug: "{{slug}}"
     editor:
       preview: false
