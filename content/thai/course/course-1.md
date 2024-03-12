@@ -1,15 +1,18 @@
 ---
-title: "Photography"
+title: "การประกอบอาหารไทยขั้นพื้นฐาน"
 date: 2019-07-06T15:27:17+06:00
-draft: false
+draft: true
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+# bg_image: "images/backgrounds/page-title.jpg"
 # meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
+description : "เรียนรู้เทคนิคการประกอบอาหารไทย เพื่อนำไปประกอบธุรกิจร้านอาหาร หรือไปทำงานด้านเชฟอาหารไทยในร้านอาหาร โรงแรมทั้งในประเทศและต่างประเทศ"
 # course thumbnail
-image: "images/courses/course-1.jpg"
+image: "images/courses/cooking.jpeg"
 # taxonomy
-category: "Photography"
+category: "ด้านอาหาร"
+career: "อาหารไทย"
+level: "พื้นฐาน"
+venue: "ออนไลน์"
 # teacher
 teacher: "Clark Malik"
 # duration
@@ -22,50 +25,20 @@ fee : "From: $699"
 apply_url : "#"
 # type
 type: "course"
+
 ---
 
+### คำอธิบายหลักสูตร
 
-### About Course
+เรียนรู้เทคนิคการประกอบอาหารไทย เพื่อนำไปประกอบธุรกิจร้านอาหาร หรือไปทำงานด้านเชฟอาหารไทยในร้านอาหาร โรงแรมทั้งในประเทศและต่างประเทศ</p>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.</p>
+### เหมาะสำหรับ
 
-### Requirements
+บุคคลทั่วไป
 
-
+### เนื้อหาบทเรียน
 
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
 * Lorem ipsum dolor sit amet consectetur adipisicing elit.
-
-
-### How to Apply
-
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-* Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae obcaecati unde nulla?
-
-
-### Fees and Funding
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.

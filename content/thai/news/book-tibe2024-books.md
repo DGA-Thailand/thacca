@@ -6,6 +6,7 @@ draft: false
 description: แนะนำ 134 หนังสือไทยที่ได้รับคัดเลือกให้ไปจัดแสดงในงาน Taipei International Exhibition 2024
 tags:
   - book
+  - taipei
 ---
 
 แนะนำ 134 หนังสือไทยที่ได้รับคัดเลือกให้ไปจัดแสดงในงาน Taipei International Exhibition 2024

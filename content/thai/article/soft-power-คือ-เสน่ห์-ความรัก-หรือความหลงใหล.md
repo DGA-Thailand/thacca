@@ -4,7 +4,7 @@ image: /images/article/screenshot-2567-03-11-at-13.47.59.png
 date: 2024-03-11T06:51:56.467Z
 description: "Soft Power คือ เสน่ห์ ความรัก หรือความหลงใหล ? "
 tags:
-  - committee
+  - knowledge
 ---
 **1. ซอฟต์พาวเวอร์ของประเทศไทยจะประสบความสำเร็จได้อยู่ที่การบริหารเสน่ห์**
 
