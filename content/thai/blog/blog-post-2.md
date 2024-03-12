@@ -1,32 +1,77 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
+title: "อยากเป็นเชฟต้องทำอย่างไร"
 date: 2019-07-06T15:27:17+06:00
 draft: true
 # page title background image
-bg_image: "images/backgrounds/page-title.jpg"
+bg_image: "/images/courses/cooking.jpeg"
 # meta description
 description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
 # post thumbnail
-image: "images/blog/post-2.jpg"
+image: "/images/courses/cooking.jpeg"
 # post author
 author: "John Doe"
 # taxonomy
 categories: ["Education System"]
 tags: ["Education", "Automation"]
 # type
-type: "post"
+type: "article"
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+#### เชฟคืออะไร?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+อย่างที่ทุกคนอาจจะรู้กันอยู่แล้วว่าเชฟหรือพ่อครัว คือผู้ที่ต้องรับผิดชอบในการทำอาหาร รวมไปถึงรังสรรค์อาหารหลากหลายเมนูออกมาให้ผู้อื่นได้ลิ้มรส แต่ในความเป็นจริงแล้ว อาชีพเชฟมีสิ่งที่ต้องรับผิดชอบมากกว่าที่คิด ไม่ว่าจะเป็นการคัดเลือกวัตถุดิบที่เหมาะกับการทำอาหาร การดูแลจัดการทีมเชฟที่ทำงานร่วมกัน การวางแผนเมนูอาหารให้สอดคล้องกับแผนการตลาดของร้าน จนไปถึงการควบคุมต้นทุนการผลิตอาหารอีกด้วย ดังนั้นแค่มีใจรักในการทำอาหารอาจจะยังไม่พอ แต่คุณจะต้องมีทักษะในการบริการจัดการด้วยเช่นกัน
 
+หน้าที่ความรับผิดชอบของเชฟนั้นยังมีความแตกต่างกันออกไปตามร้านอาหาร รวมถึงยังแตกต่างกันออกไปตามลักษณะของอาหารที่ทำ อย่างเช่น บางสถานที่ทำงานอาจจะมีทั้งครัวร้อน และครัวเย็น ซึ่งหน้าที่ความรับผิดชอบและทักษะที่ใช้ก็อาจจะแตกต่างกันออกไป นอกจากนี้แล้วการทำงานภายในครัวก็ยังมีเชฟหลากหลายขั้นอีกด้วย ไม่ว่าจะเป็นเชฟใหญ่ ผู้ช่วยเชฟ รองเชฟ และอื่น ๆ 
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+#### อาชีพเชฟ มีทั้งหมดกี่ระดับ?
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+หลังจากได้รู้กันไปแล้วว่าเชฟคืออะไร เรามาดูกันดีกว่าว่าเส้นทางสู่การเป็นเชฟมีอะไรบ้าง แน่นอนว่าเส้นทางสู่อาชีพเชฟนั้นไม่ได้ง่ายดายอย่างที่คิด เพราะในวงการเชฟนั้น จะมีลำดับการทำงานที่แบ่งตามขั้นประสบการณ์ ได้แก่ 
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+หัวหน้าเชฟ (Head Chef หรือ Executive Chef)
+: หัวหน้าเชฟคือตำแหน่งที่สูงที่สุดในอาชีพเชฟ หน้าที่ของผู้เป็นหัวหน้าเชฟก็คือต้องทำการบริหารจัดการซะส่วนใหญ่ ดังนั้นหัวหน้าเชฟมักจะใช้เวลาส่วนมากภายในออฟฟิศ เพราะหน้าที่ส่วนหนึ่งของ Executive Chef คือต้องจัดการคำนวณรายรับ รายจ่าย ทำงานร่วมกับทีมอื่น ๆ ของห้องอาหาร คิดค้นสูตรอาหารและเมนูใหม่ ๆ รวมถึงจัดการและบริหารผู้คนในทีมให้มีประสิทธิภาพมากที่สุดสำหรับการทำงาน
+รองเชฟใหญ่ (Second Chef หรือ Sous Chef)
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Sous Chef คือตำแหน่งรองเชฟใหญ่นั้น 
+: ซึ่งถือว่ามีอำนาจในการทำงานรองลงมาจากหัวหน้าเชฟ ต้องเป็นคนที่สามารถบริหารจัดการงานต่าง ๆ แทนเชฟใหญ่ได้เมื่อเชฟใหญ่ไม่อยู่ อีกทั้งยังเป็นผู้ที่จัดการการวางแผนในการทำงานแต่ละวัน แตกงานให้กับเชฟคนอื่น ๆ ภายในครัว รวมถึงสอนงานเชฟคนใหม่ ๆ
+
+รองหัวหน้าเชฟ (Demi Chef)
+: ต่อมาจะเป็นตำแหน่งรองหัวหน้าเชฟหรือ Demi Chef คือคนที่ใช้เวลาส่วนมากในการทำงานในครัวเป็นหลัก โดยหน้าที่คือช่วยรองเชฟใหญ่ในการบริหารทีม และดูแลการทำงานในกรณีที่มีการทำงานเป็นกะ
+ผู้ช่วยเชฟ (Commis Chef)
+
+Commis Chef หรือ ผู้ช่วยเชฟ 
+: คือตำแหน่งแรกเริ่มสำหรับอาชีพเชฟเลยก็ว่าได้ เพราะตำแหน่งผู้ช่วยเชฟไม่จำเป็นจพต้องมีทักษะเฉพาะทางใด ๆ เปรียบเสมือนกับคนที่ทำให้เชฟสามารถทำงานได้รวดเร็วและง่ายมากยิ่งขึ้น ไม่ว่าจะเป็นการเตรียมวัตถุดิบ ควบคุมดูแลความสะอาดภายในห้องครัว และตรวจสอบวัตถุดิบ ดู ๆ ไปแล้ว ก็คงไม่ผิดถ้าจะบอกว่า Commis Chef คือตำแหน่งที่เล็กที่สุด แต่ทว่ากลับมีความสำคัญกับทีมอย่างมาก เพราะถ้าขาดผู้ช่วยเชฟไป เชฟในครัวจะต้องทำงานเพิ่มขึ้นอีกหลายเท่าตัวเลยทีเดียว อีกทั้งตำแหน่งผู้ช่วยเชฟเองก็มีหลายระดับเช่นกัน ตั้งแต่ผู้ช่วยธรรมดาไปจนถึงตำแหน่งพี่ใหญ่ที่คอยดูแลความเรียบร้อยโดยรวมอีกครั้ง
+จากตำแหน่งต่าง ๆ ในอาชีพเชฟข้างต้น จะเห็นได้ว่าถ้าหากคุณต้องการเริ่มต้นเส้นทางในอาชีพนี้ ก็อาจจะสมัครงานในตำแหน่งผู้ช่วยเชฟก่อนได้ เพื่อเรียนรู้สิ่งพื้นฐานที่ต้องทำภายในห้องครัว สำหรับคนที่ไม่มีประสบการณ์หรือไม่ได้เรียนเชฟมา อาจจะเริ่มต้นจากการสมัครเป็นลูกจ้างชั่วคราวก่อนก็ได้ หลังจากนั้นอาจได้รับการบรรจุเป็นผู้ช่วยเชฟซึ่งเป็นลูกจ้างประจำต่อไป
+
+#### อยากเป็นเชฟ ต้องเรียนคณะอะไร?
+
+สำหรับคนที่เพิ่งค้นพบตัวเอง หรือกำลังมองหาทางเดินตามความฝันในการเป็นเชฟ ก็น่าจะมีคำถามว่า "อยากเป็นเชฟ ต้องเรียนคณะอะไร?" ซึ่งต้องอธิบายว่าตามหลักแล้ว การเป็นเชฟนั้นจะต้องเรียนเชฟมาจากมหาวิทยาลัยหรือโรงเรียนที่สอนทำอาหารโดยเฉพาะ แต่ในปัจจุบันนี้ คุณสามารถมองหาคอร์สเรียนทำอาหารระยะสั้นได้ เพื่อปูพื้นฐานในการทำงานในครัว และเรียนรู้เกี่ยวกับแนวคิดของอาชีพเชฟก่อนที่จะไปสมัครงาน หากถามว่าจะเรียนเชฟที่ไหนดี ก็อาจจะต้องตอบว่าขึ้นอยู่กับความสะดวกของคุณ เพราะจริง ๆ แล้วการเรียนไม่ได้เป็นสิ่งที่การันตีความสำเร็จในอาชีพนี้ได้ แต่ขึ้นอยู่กับความตั้งใจและความมุ่งมั่นมากกว่า
+
+นอกจากการเรียนเชฟแล้ว ผู้ที่เรียนวิทยาศาสตร์อาหาร (Food Science) ก็สามารถต่อยอดอาชีพจนกลายมาเป็นเชฟได้เช่นกัน เพราะนอกจากการปรุงอาหารจะเป็นข้อสำคัญของเชฟแล้ว การที่มีความรู้เกี่ยวกับวิทยาศาสตร์เกี่ยวกับอาหารยังสามารถช่วยพัฒนาสูตรอาหารที่แปลกใหม่ มีความลงตัวกันของรสชาติและการนำเสนอได้
+
+#### อยากสอบใบประกอบวิชาชีพเชฟ ต้องทำอย่างไร?
+
+หลังจากที่คุณมีประสบการณ์แล้ว ขั้นต่อไปที่จะทำให้คุณได้รับการรับรองในการประกอบวิชาชีพก็คือการสอบมาตรฐานฝีมือแรงงานแห่งชาติ สาขาผู้ประกอบอาหารไทย ซึ่งจะมีเกณฑ์ดังต่อไปนี้ ซึ่งอาจจะตรงแค่เพียงข้อใดข้อหนึ่ง ก็สามารถสมัครสอบได้แล้ว
+
+- มีประสบการณ์การทำงานเป็นพ่อครัวหรือทำอาหารมากกว่า 3 ปี
+- ผ่านการฝึกฝีมือแรงงานหรือฝึกอาชีพ ในสาขาอาชีพผู้ประกอบอาหารไทยไม่น้อยกว่า 90 ชั่วโมง
+- เป็นผู้ที่จบการศึกษาไม่ต่ำกว่าระดับประกาศนียบัตรวิชาชีพในสาขาที่เกี่ยวข้องกับอาชีพนี้
+- เป็นผู้ที่จบการศึกษาไม่ต่ำกว่าระดับประกาศนียบัตรวิชาชีพในสาขาที่เกี่ยวข้องกับอาชีพนี้ หรือ โดยมีการเรียนอาหารไทยไม่น้อยกว่า 6 หน่วยกิต
+
+การสอบใบประกอบวิชาชีพนี้นั้น นอกจากจะช่วยการันตีฝีมือของคุณในการเป็นเชฟภายในประเทศแล้ว ก็ยังสามารถใช้ในการสมัครงานต่างประเทศได้ด้วยเช่นกัน โดยการสอบมาตรฐานฝีมือแรงงานนี้จะมีทั้งหมด 2 ขั้นด้วยกัน ตามระยะเวลาในการทำงาน
+
+#### ทักษะสำคัญของการประกอบอาชีพเชฟคืออะไรบ้าง?
+
+เชฟที่ดีควรมีคุณสมบัติและทักษะหลากหลายที่นอกเหนือจากการทำอาหาร
+
+- ทักษะการทำอาหาร มีความรู้ความเข้าใจเกี่ยวกับวิธีทำอาหารอย่างครบถ้วน รวมถึงการคัดเลือกวัตถุดิบ
+- ทักษะบริหารจัดการ เพื่อจัดการงานต่าง ๆ ภายในครัว และบริหารเวลาในการทำงานได้อย่างมีประสิทธิภาพ
+- ทักษะความคิดสร้างสรรค์ มีส่วนสำคัญเป็นอย่างมากในการเป็นเชฟ เพราะคุณจะต้องคิดค้นเมนูใหม่ ๆ หรือมองหาวิธีนำเสนออาหารให้น่าสนใจ สร้างจุดเด่น
+- ทักษะการเป็นผู้นำ ถึงแม้ว่าคุณจะเป็นผู้ช่วยเชฟในขั้นแรก การเป็นผู้นำก็สำคัญ คุณต้องสามารถจัดการและแก้ไขปัญหาต่าง ๆ ได้ด้วยตัวเอง หากมีทีม ก็ต้องดูแลและนำทีมให้ทำงานได้อย่างราบรื่น
+- ทักษะการทำงานเป็นทีมและการสื่อสาร เพราะคุณจะต้องทำงานร่วมกับเชฟตำแหน่งอื่น ๆ ตลอดเวลา
+- ทักษะทางด้านภาษา ไม่ว่าจะเป็นภาษาอังกฤษหรือฝรั่งเศส เพราะตำราใหม่ ๆ มักจะเป็นภาษาเหล่านี้ รวมถึงคำศัพท์หลาย ๆ คำที่ใช้ในการทำอาหารก็มาจากภาษาเหล่านี้เช่นกัน
+
+#### สรุปใจความสำคัญของการเป็นเชฟ
+
+หากคุณเป็นผู้ที่มีใจรักในการทำอาหาร และอยากเดินทางสู่อาชีพเชฟอย่างมืออาชีพ คุณสามารถเริ่มต้นได้จากการเรียนรู้จากคอร์สสอนทำอาหารจากสถาบันต่าง ๆ เพื่อเรียนรู้และทำความเข้าใจเกี่ยวกับการทำอาหารในเบื้องต้น หลังจากนั้นคุณสามารถสมัครงานในตำแหน่งผู้ช่วยเชฟก่อนได้ เพื่อเรียนรู้สิ่งต่าง ๆ ในการทำงานจริง หลังจากนั้นอาจจะไปสอบใบประกอบวิชาชีพเพื่อการันตีฝีมือและทักษะ
+
+ที่มา https://www.ikonclass.com/blog/how-to-become-a-chef 
