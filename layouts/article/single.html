@@ -5,10 +5,12 @@
   <div class="container">
     <div class="row">
       <!-- article image -->
+      {{ if isset .Params "image"}}
       <div class="col-12 mb-4">
         <img style="width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
       </div>
-      <div class="col-12 pt-2">
+      {{ end }}
+      <div class="col-12 mt-2 pt-2">
         <h3 class="section-title">{{ .Title }}</h2>
       </div>
     </div>
