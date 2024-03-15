@@ -1,19 +1,10 @@
 ---
-title: "คณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านกีฬา"
+title: คณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านกีฬา
 date: 2024-02-08
 draft: false
-# page title background image
-# bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-# description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-image: "/images/committee/sport-subcommittee.jpeg"
-# post author
-# author: "CEA"
-# taxonomy
-tags: ["Subcommittee"]
-# type
-# type: "article"
+image: /images/committee/sport-subcommittee.jpeg
+tags:
+  - Subcommittee
 ---
 
 <style>
@@ -33,7 +24,8 @@ tags: ["Subcommittee"]
 | (6) | นายทนุเกียรติ จันทร์ชุม | อนุกรรมการ |
 | (7) | นายสมชาย พูลสวัสดิ์ | อนุกรรมการ |
 | (8) | พลเอก อรชัย บุญสุขจิตเสรี | อนุกรรมการ |
-| (9) | รองผู้ว่าการการกีฬาแห่งประเทศไทย ฝ่ายกีฬาอาชีพและกีฬามวย | อนุกรรมการและเลขานุการ |
+| (9) | คุณไพฑูร ชุติมากรกุล” | อนุกรรมการ |
+| (10) | รองผู้ว่าการการกีฬาแห่งประเทศไทย ฝ่ายกีฬาอาชีพและกีฬามวย | อนุกรรมการและเลขานุการ |
 
 ### หน้าที่และอำนาจ
 
