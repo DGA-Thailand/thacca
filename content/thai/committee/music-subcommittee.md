@@ -1,19 +1,9 @@
 ---
-title: "คณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านดนตรี"
+title: คณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านดนตรี
 date: 2024-02-08
 draft: false
-# page title background image
-# bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-# description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-# image: "images/article/songkran.jpg"
-# post author
-# author: "CEA"
-# taxonomy
-tags: ["Subcommittee"]
-# type
-# type: "article"
+tags:
+  - Subcommittee
 ---
 
 <style>
@@ -36,7 +26,15 @@ tags: ["Subcommittee"]
 | (9) | นางสาวมารีอา มู่ | อนุกรรมการ |
 | (10) | นายสามขวัญ ตันสมพงษ์ | อนุกรรมการ |
 | (11) | นางสาวอรศิริ ประวัติยากูร | อนุกรรมการ |
-| (12) | นางสาวลลิส วรพชิรากูร | อนุกรรมการและเลขานุการ |
+| (10) | นายสามขวัญ ตันสมพงษ์ | อนุกรรมการ |
+| (11) | นางสาวอรศิริ ประวัติยากูร | อนุกรรมการ |
+| (12) | นายพงศ์นรินทร์ อุลิศ | อนุกรรมการ |
+| (13) | นายคาล คงขำ | อนุกรรมการ |
+| (14) | นายอนุชา โอเจริญ | อนุกรรมการ |
+| (15) | นายอนันต์ ลือประดิษฐ์ | อนุกรรมการ |
+| (16) | นายนัดส์ เจดีย์ | อนุกรรมการ |
+| (17) | นายพลกฤต ศรีสมุทร | อนุกรรมการ |
+| (18) | นางสาวลลิส วรพชิรากูร | อนุกรรมการและเลขานุการ |
 
 ### หน้าที่และอำนาจ
 
