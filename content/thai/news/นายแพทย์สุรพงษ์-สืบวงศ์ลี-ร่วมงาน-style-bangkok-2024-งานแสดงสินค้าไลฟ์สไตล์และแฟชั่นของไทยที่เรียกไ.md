@@ -1,5 +1,5 @@
 ---
-title: นายแพทย์สุรพงษ์ สืบวงศ์ลี ร่วมงาน Style Bangkok 2024
+title: "นายแพทย์สุรพงษ์ สืบวงศ์ลี ร่วมงาน Style Bangkok 2024"
 image: /images/news/mixcollage-26-mar-2024-09-22-am-9232-2.jpg
 date: 2024-03-25T02:23:00.000Z
 tags:
