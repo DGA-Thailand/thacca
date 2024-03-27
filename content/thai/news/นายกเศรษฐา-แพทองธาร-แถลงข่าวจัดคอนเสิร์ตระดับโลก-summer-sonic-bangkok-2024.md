@@ -3,7 +3,7 @@ title: งานนี้เอาจริง! นายกเศรษฐา-�
   SONIC BANGKOK 2024
 image: /images/news/434656591_122133089348197611_2981622127793063268_n-2.jpg
 date: 2024-03-27T10:58:31.936Z
-draft: true
+draft: false
 tags:
   - festival
   - music
