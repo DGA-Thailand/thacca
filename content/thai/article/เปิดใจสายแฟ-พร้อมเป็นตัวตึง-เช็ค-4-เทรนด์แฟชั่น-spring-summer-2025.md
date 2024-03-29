@@ -10,15 +10,13 @@ tags:
 
 จะเป็นตัวตึงไม่ตกเทรนด์ต้องเตรียมตัวยังไง ไปดูกัน…
 
+<img src="/images/434159864_122133273590197611_2173256071827668152_n-2.jpg" alt="Ethereal" style="width: 100%;object-fit;">
 
+<img src="/images/434184171_122133273620197611_8990710168500621183_n-2.jpg" alt="Light Hearted" style="width: 100%;object-fit;">
 
-![Ethereal](/images/434159864_122133273590197611_2173256071827668152_n-2.jpg "Ethereal")
+<img src="/images/434325837_122133273584197611_2615798227045400075_n-2.jpg" alt="De Luxe" style="width: 100%;object-fit;">
 
-![Lighthearted](/images/434184171_122133273620197611_8990710168500621183_n-2.jpg "Lighthearted")
-
-![De-Luxe](/images/434325837_122133273584197611_2615798227045400075_n-2.jpg "De-Luxe")
-
-![Gym Tonic](/images/434175604_122133273542197611_3258074286872458298_n-3.jpg "Gym Tonic")
+<img src="/images/434175604_122133273542197611_3258074286872458298_n-3.jpg" alt="Gym Tonic" style="width: 100%;object-fit;">
 
 ใครสนใจรายละเอียดเนื้อหาของโปรเจคเข้าไปอ่านกันได้ที่
 
