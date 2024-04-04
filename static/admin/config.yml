@@ -19,7 +19,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/article/', public_folder: '/images/article/' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', timeFormat: false }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "arts", "book", "design", "fashion", "festival", "film", "food", "music", "series", "sport", "tourism"], widget: "select", multiple: true, required: false }
@@ -35,7 +35,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/news/', public_folder: '/images/news/' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', timeFormat: false }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "arts", "book", "design", "fashion", "festival", "film", "food", "music", "series", "sport", "tourism"], widget: "select", multiple: true, required: false }
@@ -51,7 +51,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Featured Image', name: 'image', widget: 'image', media_folder: '/static/images/news/', public_folder: '/images/news/', required: false }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', timeFormat: false  }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: true }
       - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "arts", "book", "design", "fashion", "festival", "film", "food", "music", "series", "sport", "tourism"], widget: "select", multiple: true, required: false }

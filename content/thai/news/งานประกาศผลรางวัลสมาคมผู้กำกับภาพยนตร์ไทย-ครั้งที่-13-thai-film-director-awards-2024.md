@@ -2,7 +2,7 @@
 title: งานประกาศผลรางวัลสมาคมผู้กำกับภาพยนตร์ไทย ครั้งที่ 13 (Thai Film Director
   Awards 2024)
 image: /images/news/434720440_812929957537850_625700379424182322_n-2.jpg
-date: 2024-04-02T17:18
+date: 2024-04-02T11:05:00+07:00
 draft: false
 tags:
   - film
