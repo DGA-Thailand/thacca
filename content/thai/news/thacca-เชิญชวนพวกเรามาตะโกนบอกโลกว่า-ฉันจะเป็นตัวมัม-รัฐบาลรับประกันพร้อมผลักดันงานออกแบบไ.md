@@ -3,7 +3,7 @@ title: THACCA เชิญชวนพวกเรามาตะโกนบอ
   รัฐบาลรับประกันพร้อมผลักดันงานออกแบบไทยสู่ระดับโลกกับ “DEmark Award 2024”
 image: /images/news/435052986_122137306466197611_9104355779135150822_n-2.jpg
 date: 2024-04-09
-draft: true
+draft: false
 tags:
   - design
 ---
