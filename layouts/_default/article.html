@@ -1,4 +1,4 @@
-<div class="row py-2 no-gutters">
+<div class="row col-12 py-2">
   <div class="col-sm-6 col-md-3 col-lg-3 py-1">
     {{ if isset .Params "image" }}
       <img class="img-fluid" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" />
@@ -6,10 +6,23 @@
       <img class="img-fluid" src="/images/thacca-square.webp" alt="{{ .Title }}" />
     {{ end }}
   </div>
-  <div class="col-sm-6 col-md-8 col-lg-9">
+  <div class="col-sm-6 col-md-9 col-lg-9">
     <h4 class="">{{ .Title }}</h4>
-    <p  class="group inner list-group-item-text">{{ .Summary | truncate 100 }}</p>
+    {{ if isset .Params "date" }}
+      {{ .Date | time.Format ":date_medium" }}
+    {{ end }}
+    <p  class="group inner list-group-item-text">{{ .Summary | truncate 100 }}
+      <br />
+    {{ $taxonomy := "tags" }}
+    {{ with .GetTerms $taxonomy }}
+        {{ range $k, $_ := . -}}
+          {{ if $k }}, {{ end }}
+          <a href="{{ .RelPermalink }}">#{{ .LinkTitle }}</a>
+        {{- end }}
+    {{ end }}
+    </p>
     <a href="{{ .Permalink }}" class="btn is-danger is-rounded btn-sm">
       {{ i18n "read_more" }}
     </a>
+  </div>
 </div>
