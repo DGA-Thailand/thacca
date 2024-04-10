@@ -3,7 +3,9 @@ title: สาดฉ่ำให้หนำใจ!  THACCA ชวนทุกท
   Songkran World Water Festival 2024
 image: /images/news/435307280_122137702286197611_7973499986051408769_n-2.jpg
 date: 2024-04-10
-draft: true
+draft: false
+tags:
+  - festival
 ---
 สาดฉ่ำให้หนำใจ!  THACCA ชวนทุกท่านไปสาด “ความมันส์” ให้มันสะใจกับงาน Maha Songkran World Water Festival 2024 ปีนี้จัดใหญ่จัดเต็มโดย การท่องเที่ยวแห่งประเทศไทย (ททท.) ตลอด 5 วัน แบบไม่กั๊ก!
 
