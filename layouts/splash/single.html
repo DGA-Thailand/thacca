@@ -1,0 +1,28 @@
+{{ define "main" }}
+<!-- event single -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      <!-- article image -->
+      <div class="col-12">
+        {{ if isset .Params "image" }}
+          <img style="width: 100%;object-fit: cover;" src="{{ .Params.image | relURL }}" alt="{{ .Title }}" class="img-fluid w-100">
+        {{ else }}
+          &nbsp;
+        {{ end }}
+      </div>
+      <div class="col-12">
+        &nbsp;
+        <h3 class="section-title">{{ .Title }}</h2>
+      </div>
+    </div>
+    <!-- article details -->
+    <div class="row">
+      <div class="col-12 mb-50 content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+<!-- /event single -->
+{{ end }}

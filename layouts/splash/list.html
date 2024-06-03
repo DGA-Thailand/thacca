@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<!-- splash -->
+<section class="section">
+  <div class="container">
+    <!-- intro -->
+    <div class="row">
+      <div class="col-12">
+        {{ with .Params.image }}
+        <img class="img-fluid w-100 mb-4" src="{{ . | relURL }}" alt="about image">
+        {{ end }}
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</section>
+<section class="section bg-gray"> 
+  <div class="container">
+    <!-- updates -->
+    <div class="row">
+      <h3>SPLASH Updates</h3>
+
+      {{ $p := slice "splash" }}
+      {{ range where site.RegularPages ".Params.tags" "intersect" $p }}
+      <div class="row no-gutters">
+        {{ .Render "news" }}
+      </div>
+      {{ end }}
+    </div>  
+  </div>
+</section>
+<!-- /splash -->
+
+{{ end }}
