@@ -18,14 +18,16 @@
   <div class="container">
     <!-- updates -->
     <div class="row">
-      <h3>SPLASH Updates</h3>
+      <div class="col-12">
+        <h3>SPLASH Updates</h3>
 
-      {{ $p := slice "splash" }}
-      {{ range where site.RegularPages ".Params.tags" "intersect" $p }}
-      <div class="row no-gutters">
-        {{ .Render "news" }}
+        {{ $p := slice "splash" }}
+        {{ range where site.RegularPages ".Params.tags" "intersect" $p }}
+        <div class="row no-gutters">
+          {{ .Render "news" }}
+        </div>
+        {{ end }}
       </div>
-      {{ end }}
     </div>  
   </div>
 </section>
