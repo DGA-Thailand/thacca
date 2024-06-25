@@ -19,6 +19,23 @@
     <!-- updates -->
     <div class="row">
       <div class="col-12">
+        <h3>SPLASH Highlights</h3>
+
+        {{ $p := slice "splash-pin" }}
+        {{ range where site.RegularPages ".Params.tags" "intersect" $p }}
+        <div class="row no-gutters">
+          {{ .Render "news" }}
+        </div>
+        {{ end }}
+      </div>
+    </div>  
+  </div>
+</section>
+<section class="section"> 
+  <div class="container">
+    <!-- updates -->
+    <div class="row">
+      <div class="col-12">
         <h3>SPLASH Updates</h3>
 
         {{ $p := slice "splash" }}
