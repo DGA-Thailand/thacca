@@ -133,11 +133,12 @@
   <div class="container">
     <div class="row">
       <div class="col-12 text-center">
-        <h6 class="text-white font-secondary mb-0">{{ .subtitle | markdownify }}</h6>
-        <h2 class="section-title text-white">{{ .title | markdownify }}</h2>
+        <h3 class="text font-secondary mb-0">{{ .subtitle | markdownify }}</h6>
+        <p />
+        <h1 class="section-title text">{{ .title | markdownify }}</h2>
         {{ if .button.enable }}
         {{ with .button }}
-        <a href="{{ .link | absLangURL }}" class="btn btn-light">{{ .label }}</a>
+        <a href="{{ .link | absLangURL }}" class="btn is-danger is-rounded">{{ .label }}</a>
         {{ end }}
         {{ end }}
       </div>

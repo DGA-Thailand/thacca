@@ -83,13 +83,13 @@ course:
 
 ########################## Call to action ############################
 cta:
-  enable : false
-  subtitle : "Click to Join the Advance Workshop"
-  title : "Training In Advannce Networking"
+  enable : true
+  subtitle : "อยากพัฒนาตัวเอง ไม่รู้เริ่มอย่างไร"
+  title : "การเรียนรู้ไม่มีวันสาย เริ่มต้นได้ทุกเมื่อ"
   button:
     enable : true
-    label : "join now"
-    link : "contact/"
+    label : "สมัครเรียนฟรีด้วยสิทธิ OFOS"
+    link : "https://ofos.thacca.go.th"
 
 ######################## Success story #############################
 success_story:
