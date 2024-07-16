@@ -11,9 +11,9 @@ draft: false
 
 อ่านเป้าหมายของแต่ละอุตสาหกรรมซอฟต์พาวเวอร์ในรายละเอียดตามแต่ละอุตสาหกรรมได้เลย
 
-<img src="/images/sptarget1-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget1-2.jpeg" style="width: 100%;object-fit;">
 
-<img src="/images/sptarget2-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget2-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับเคลื่อนอุตสาหกรรมหนังสือหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 สิ่งที่เราจะทำคือ
 
@@ -26,7 +26,7 @@ draft: false
 
 คุณจรัญ หอมเทียนทอง ประธานอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านหนังสือ
 
-<img src="/images/sptarget3-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget3-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมภาพยนตร์ ซีรีส์ สารคดีและแอนิเมชันหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 สิ่งที่เราจะทำคือ
 
@@ -40,7 +40,7 @@ draft: false
 
 ม.ร.ว. เฉลิมชาตรี ยุคล ประธานคณะอนุกรรมการขับเคลื่อนอุตสาหกรรม ด้านภาพยนตร์ ละคร ซีรีส์ สารคดีและแอนิเมชัน
 
-<img src="/images/sptarget4-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget4-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมอาหารหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 สิ่งที่เราจะทำคือ
 
@@ -52,7 +52,7 @@ draft: false
 
 คุณชุมพล แจ้งไพร ประธานคณะอนุกรรมการการขับเคลื่อนอุตสาหกรรมด้านอาหาร
 
-<img src="/images/sptarget5-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget5-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมออกแบบหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 สิ่งที่เราจะทำคือ
 
@@ -66,7 +66,7 @@ draft: false
 
 คุณดวงฤทธิ์ บุนนาค ประธานคณะอนุกรรมการการขับเคลื่อนอุตสาหกรรมด้านออกแบบ
 
-<img src="/images/sptarget6-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget6-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมท่องเที่ยวหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 ผลักดันการท่องเที่ยวมิติใหม่ ประสานความร่วมมือกับอุตสาหกรรมอื่นๆ อีกหลายอุตสาหกรรมไม่ว่าจะ อาหาร ชุมชน เฟสติวัล และงานหัตถกรรมสร้างสรรค์ในอุตสาหกรรมแฟชั่น โดยสิ่งที่เราจะทำคือ
 
@@ -78,7 +78,7 @@ draft: false
 
 คุณมาริสา สุโกศล หนุนภักดี ประธานคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านการท่องเที่ยว
 
-<img src="/images/sptarget7-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget7-2.jpeg" style="width: 100%;object-fit;">
 
 เราจะเริ่มค้นหาเพชร คัดเพชร และเจียระไนเพชรอย่าง “ลิซ่า” ออกมาให้ได้มากเพื่อผลักดันอุตสาหกรรมดนตรีต่อยอดความเป็นไทยให้กระจายไปทั่วโลก ซึ่งเป้าหมายในการขับคเลื่อนอุตสาหกรรมหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 สิ่งที่เราจะทำคือ
 
@@ -90,7 +90,7 @@ draft: false
 
 คุณวิเชียร ฤกษ์ไพศาล ประธานคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านดนตรี
 
-<img src="/images/sptarget8-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget8-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมเกมหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 เราจะสนับสนุนนักศึกษามหาวิทยาลัยให้สามารถทำเกมเองได้ เพื่อเพิ่มเป็นโอกาสสร้างรายได้ให้กับตัวเอง และสร้างรายได้เข้าประเทศไทยมากขึ้น โดยสิ่งที่เราจะทำหลังจากนี้คือ
 
@@ -100,7 +100,7 @@ draft: false
 
 คุณสิทธิชัย เทพไพฑูรย์ ประธานคณะอนุกรรมการการขับเคลื่อนอุตสาหกรรมด้านเกม
 
-<img src="/images/sptarget9-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget9-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมเฟสติวัลหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 เราจะต้องปรับกระบวนการจัดงานเทศกาลใหม่ให้เป็นรูปแบบ Story Telling ร้อยเรียงเรื่องราวในการสื่อสารออกไปทั่วโลก ประสานงานร่วมกับอุตสาหกรรมท่องเที่ยวสร้างแรงดึงดูดนักท่องเที่ยวให้เข้ามาชื่นชมและเข้าใจความเป็นไทย
 
@@ -114,7 +114,7 @@ draft: false
 
 คุณชฏาทิพย์ จูตระกูล ประธานคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านเฟสติวัล
 
-<img src="/images/sptarget10-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget10-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายในการขับคเลื่อนอุตสาหกรรมด้านศิลปะหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 ซึ่งเราจะขับเคลื่อนงานทั้ง Fine art และ Performing art โดยมีทิศทางดังต่อไปนี้
 
@@ -128,7 +128,7 @@ draft: false
 
 คุณเสริมคุณ คุณาวงศ์ ประธานคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านศิลปะ
 
-<img src="/images/sptarget11-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget11-2.jpeg" style="width: 100%;object-fit;">
 
 ทิศทางการผลักดันอุตสาหกรรมด้านแฟชั่นไทยหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 เรา แบ่งออกเป็น 4 ด้าน ได้แก่
 
@@ -149,7 +149,7 @@ draft: false
 
 คุณอัจฉรา อัมพุช ประธานคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมแฟชั่น
 
-<img src="/images/sptarget12-2.jpg" style="width: 100%;object-fit;">
+<img src="/images/article/sptarget12-2.jpeg" style="width: 100%;object-fit;">
 
 เป้าหมายการผลักดันอุตสาหกรรมด้านกีฬาหลังจากงาน THACCA SPLASH : Soft Power Forum 2024 คือการชูมวยไทยขึ้นนำร่อง เพราะมวยไทยเป็นวัฒนธรรม เป็นมรดกของไทยและเป็นกีฬาประเภทเดียวที่มีชื่อประเทศ โดยเราจะเริ่มโครงการดังต่อไปนี้
 
