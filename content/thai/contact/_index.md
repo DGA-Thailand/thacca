@@ -1,6 +1,6 @@
 ---
 title: "Contact Us"
-draft: false
+draft: true
 layout: "contact-form"
 # page title background image
 # bg_image: "images/backgrounds/page-title.jpg"
