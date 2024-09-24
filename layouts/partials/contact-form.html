@@ -1,0 +1,24 @@
+<script src=""></script>
+<form action="mailto:your_email@example.com" method="post" enctype="text/plain">
+    <label for="name">ชื่อผู้ติดต่อ (Name):</label>
+    <input type="text" id="name" name="name" required /><br /><br />
+
+    <label for="email">อีเมล (Email):</label>
+    <input type="email" id="email" name="email" required><br><br>
+
+    <label for="topic">ประเด็นที่ต้องการติดต่อ (Topic):</label>
+    <select id="topic" name="topic">
+        <option value="Partnership">พันธมิตร (Partnership)</option>
+        <option value="Funding">ทุนและการสนับสนุน (Funding & Grants)</option>
+        <option value="Project">กิจกรรม (Project)</option>
+        <option value="Recommendation">ข้อเสนอแนะ (Recommendation)</option>
+    </select><br><br>   
+
+    <label for="subject">รายละเอียดที่ต้องการติดต่อ (Subject):</label>   
+    <input type="text" id="subject" name="subject"><br><br>
+
+        <label for="details">Details:</label><br>
+        <textarea id="details" name="details" rows="4" cols="50"></textarea><br><br>
+
+    <input type="submit" value="ส่งข้อความ (Send)">
+</form>
