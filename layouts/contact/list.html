@@ -4,41 +4,11 @@
 <section class="section bg-gray">
   <div class="container">
     <div class="row">
-      <div class="col-lg-12">
-        <br><br>
-        <h2 class="section-title">{{ i18n "contact_us" }}</h2>
-      </div>
     </div>
     <div class="row">
-      <div class="col-lg-12 mb-4 mb-lg-0">
-        <script src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
-        <form action="https://formsubmit.co/asisunyapoth@gmail.com" method="POST">
-
-          <input class="form-control mb-3" type="text" id="name" name="name" placeholder="ชื่อผู้ติดต่อ (Name)" required><br>
-      
-          <input class="form-control mb-3" type="email" id="email" name="email" placeholder="อีเมล (Email)" required><br>
-      
-          <label for="topic">ประเด็นที่ต้องการติดต่อ (Topic):</label>
-          <select class="form-control mb-3" id="topic" name="topic">
-              <option value="Partnership">พันธมิตร (Partnership)</option>
-              <option value="Funding">ทุนและการสนับสนุน (Funding & Grants)</option>
-              <option value="Project">กิจกรรม (Project)</option>
-              <option value="Recommendation">ข้อเสนอแนะ (recommendation)</option>
-          </select><br>
-      
-          <input class="form-control mb-3" type="text" id="subject" name="subject" placeholder="เรื่องที่ต้องการติดต่อ (Subject)" required><br>
-      
-          <textarea class="form-control mb-3" id="details" name="details" rows="4" cols="50" placeholder="รายละเอียด (Details)"></textarea><br>
-      
-          <div class="cf-turnstile" data-sitekey="0x4AAAAAAAkmx4nhT3n_Edw0"></div><br>
-
-          <input type="submit" value="ส่งข้อความ (Send)" class="btn btn-primary">
-        </form>
       </div>
-      <!--div class="col-lg-5 content">
+      <div class="col-12 content">
         {{ .Content }}
-        <a href="tel:{{ site.Params.mobile }}" class="text-color h5 d-block">{{ site.Params.mobile }}</a>
-        <a href="mailto:{{ site.Params.email }}" class="mb-5 text-color h5 d-block">{{ site.Params.email }}</a>
         <p>{{ site.Params.address | markdownify }}</p>
       </div-->
     </div>

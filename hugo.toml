@@ -212,6 +212,12 @@ name = "เกี่ยวกับเรา"
 url = "/about/"
 weight = 4
 
+# main menu
+[[Languages.th.menu.main]]
+name = "ติดต่อเรา"
+url = "/contact/"
+weight = 5
+
 # [[Languages.en.menu.main]]
 # weight = 3
 # name = "Pages"
