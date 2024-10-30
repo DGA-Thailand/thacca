@@ -28,7 +28,6 @@ p, .paragraph {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  color: $text-color-dark;
   font-family: $secondary-font;
   font-weight: 700;
   line-height: 1.2;
@@ -36,12 +35,14 @@ h1,h2,h3,h4,h5,h6 {
 
 h1, .h1{
   font-size: 48px;
+  color: $text-color-red;
   @include mobile {
     font-size: 45px;
   }
 }
 
 h2, .h2{
+  color: $text-color-red;
   font-size: 34px;
   @include mobile {
     font-size: 30px;
@@ -49,6 +50,7 @@ h2, .h2{
 }
 
 h3, .h3{
+  color: $text-color-dark;
   font-size: 25px;
   @include mobile {
     font-size: 20px;

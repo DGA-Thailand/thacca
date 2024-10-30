@@ -44,16 +44,10 @@ banner_feature:
 about:
   enable : true
   # title : "THACCA SPLASH - Soft Power Forum"
-  title : "ซอฟต์พาวเวอร์คืออะไร?"
-  image : "images/thacca-square.jpg"
-  content : "ซอฟต์พาวเวอร์ (Soft Power) เป็นทฤษฎีด้านความสัมพันธ์ระหว่างประเทศ ที่นิยามขึ้นมาโดย โจเซฟ ไนย์ (Joseph S. Nye) นักวิชาการด้านการต่างประเทศ โดยให้ความหมายว่า
+  title : "สร้างเสน่ห์  เสริมทักษะ  ปลดล็อกศักยภาพของคนไทย"
+  image : "images/thacca-main.png"
+  content : รัฐบาลนำโดยนายกรัฐมนตรีแพทองธาร ชินวัตร มีนโยบายสนับสนุนการสร้างพลังสร้างสรรค์ หรือซอฟต์พาวเวอร์ของประเทศ โดยส่งเสริมการยกระดับภูมิปัญญาไทยไปสู่วัฒนธรรมสร้างสรรค์ และยกระดับทักษะและปลดล็อกศักยภาพของคนไทย เพื่อเป็นการ<b>สร้างงานสร้างรายได้ และพัฒนาขีดความสามารถในการแข่งขันของประเทศ ตลอดจนส่งเสริมบทบาทความเป็นผู้นำของประเทศไทยในเวทีโลก</b> ซึ่งจะเป็นประโยชน์ต่อการเจริญเติบโตทางเศรษฐกิจและการค้าระหว่างประเทศ<br /><br /><b>1 ครอบครัว 1 ซอฟต์พาวเวอร์ One Family One Soft Power (OFOS)</b> จะเป็นกลวิธีสำคัญในการสร้างโอกาสให้คนไทยได้รับการฝึกฝนทักษะ “อัพสกิล – รีสกิล” ครั้งใหญ่ในประวัติศาสตร์ของประเทศ
   
-  “พลังที่โน้มนำให้ผู้อื่นหรือประเทศอื่นทำในสิ่งที่เราต้องการ โดยไม่ใช้กำลังบังคับ แต่ใช้ความนุ่มนวลผ่านค่านิยมและวัฒนธรรม”
-  
-  เช่น สหรัฐอเมริกาที่เผยแพร่ค่านิยมแบบอเมริกันผ่านภาพยนตร์ฮอลลีวูด หรือแฟชั่นกางเกงยีนส์ เพื่อให้คนซึมซับค่านิยมอเมริกัน อยากมีและอยากเป็นแบบอเมริกัน
-  
-  เมื่อเวลาผ่านไป Soft Power ซึ่งเป็นทฤษฎีความสัมพันธ์ระหว่างประเทศที่หวังผลทางการเมือง ได้ถูกนำมาปรับใช้เพื่อหวังผลประโยชน์ทางเศรษฐกิจมากขึ้น เช่น เกาหลีใต้ใช้อุตสาหกรรมบันเทิงในการเผยแพร่ภาพลักษณ์ “เกาหลีใต้ใหม่” เพื่อโน้มนำให้คนจากทั่วโลกให้อยากมี อยากกิน อยากเป็นแบบเกาหลีใต้ ทำให้การส่งออกสินค้าและการท่องเที่ยวเกาหลีใต้เติบโตอย่างก้าวกระโดด"
-
   button:
     enable : true
     label : "ดูเพิ่มเติม"
@@ -77,7 +71,27 @@ cta:
 
 ######################## Success story #############################
 success_story:
-  enable : false
+  enable : true
+  success_story_item:
+    - title : "1"
+      image : "/images/key-outputs/THACCA TH_OCT67.jpg"
+    - title : "2"
+      image: "/images/key-outputs/THACCA TH_OCT67-2.jpg"
+    - title : "3"
+      image: "/images/key-outputs/THACCA TH_OCT67-3.jpg"
+    - title : "4"
+      image: "/images/key-outputs/THACCA TH_OCT67-4.jpg"
+    - title : "5"
+      image: "/images/key-outputs/THACCA TH_OCT67-5.jpg"
+    - title : "6"
+      image: "/images/key-outputs/THACCA TH_OCT67-6.jpg"
+    - title : "7"
+      image: "/images/key-outputs/THACCA TH_OCT67-7.jpg"
+    - title : "8"
+      image: "/images/key-outputs/THACCA TH_OCT67-8.jpg"
+    - title : "9"
+      image: "/images/key-outputs/THACCA TH_OCT67-9.jpg"
+
   bg_image : "/images/backgrounds/success-story.jpg"
   title : "Success Stories"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat.
