@@ -14,6 +14,9 @@ description : "THACCA คือ หน่วยงานที่รวบรว
 <img width="100%" src="/images/thacca-hero.png">
 &nbsp;
 
+{{< vimeo id="1024747792" image="/uploads/resizeallimages.png" >}}
+&nbsp;
+
 ### เป้าหมายของนโยบาย
 
 - พัฒนาแรงงานไทย 20 ล้านคนใน 4 ปี
@@ -45,7 +48,10 @@ description : "THACCA คือ หน่วยงานที่รวบรว
 <img width="100%" src="/images/thacca-org.png">
 &nbsp;
 
-### หลักการและเหตุผลในการจัดตั้ง สำนักงานส่งเสริมวัฒนธรรมสร้างสรรค์ (THACCA)
+ดู <a target="_blank" href="https://files.law.go.th/dgaBackoffice/2024-03-26-18%3A28%3A27_ร่าง%20พรบ%20THACCA_Public%20Hearing%2025-Mar-24.pdf">
+ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์</a>
+
+### หลักการและเหตุผลในการจัดตั้งสำนักงานส่งเสริมวัฒนธรรมสร้างสรรค์ (THACCA)
 
 1.  เป็นหน่วยงานกลางที่ทำหน้าที่ส่งเสริมอุตสาหกรรมวัฒนธรรมสร้างสรรค์ทั้งระบบ
 

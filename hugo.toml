@@ -91,7 +91,7 @@ link = "/plugins/google-map/gmap.js"
 
 #################### default parameters ################################
 [params]
-logo = "/images/logo-red.png"
+logo = "/images/THACCA-Logo-Red.png"
 # Meta data
 description = "THACCA Website"
 author = "Strategic Transformation Office & Digital Government Development Agency (Public Organization)"
