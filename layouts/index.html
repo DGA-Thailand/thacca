@@ -71,7 +71,7 @@
     <div class="row align-items-top">
       <div class="col-12">
         &nbsp;
-        <h1 class="section-title">{{ .title | markdownify }}</h1>
+        <h2 class="section-title">{{ .title | markdownify }}</h2>
       </div>
       <div class="col-md-6 order-2 order-md-2">
         <p>{{ .content | markdownify }}</p>
@@ -158,7 +158,7 @@
 <!-- {{ partial "success-story.html" . }} -->
 <div class="container">
   &nbsp;
-  <h1 class="section-title">ผลงานเด่น</h1>
+  <h2 class="section-title">ผลงานเด่น</h2>
 
   {{ $height := 54 }}
   {{ $unit := "%" }}
@@ -169,7 +169,7 @@
           {{ $index := 0}}
           {{ range .success_story_item }}
             <li id="c10_slide{{ add $index 1}}" style="min-width: calc(100%/{{ $items }}); padding-bottom: {{ $height }}{{ $unit }};">
-              <img width="960px" height="540px" src="{{ .image }}" alt="" /><div><div>{{ .title }}</div></div></li>
+              <img width="960px" height="540px" src="{{ .image }}" alt="{{ .title }}" /><div><div></div></div></li>
             {{ $index = add $index 1}}
           {{ end }}
       </ul>
