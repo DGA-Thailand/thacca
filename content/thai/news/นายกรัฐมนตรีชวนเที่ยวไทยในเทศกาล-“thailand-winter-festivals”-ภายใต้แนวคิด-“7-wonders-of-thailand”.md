@@ -1,16 +1,12 @@
 ---
 title: นายกรัฐมนตรีชวนเที่ยวไทยในเทศกาล “Thailand Winter Festivals” ภายใต้แนวคิด
   “7 Wonders of Thailand”
-image: /images/news/464745670_122190874208197611_8440338780066341327_n-2.jpg
+image: /images/news/464745670_122190874208197611_8440338780066341327_n-3.jpg
 date: 2024-10-29
 draft: false
 tags:
   - festival
 ---
-นายกรัฐมนตรีชวนเที่ยวไทยในเทศกาล “Thailand Winter Festivals” ภายใต้แนวคิด “7 Wonders of Thailand” สร้างความสุขปลายปี สร้างเสน่ห์ให้ประเทศไทย ผลักดันไทยเป็น World’s Festival Destination
-
-
-
 วันที่ 29 ตุลาคม 2567 ณ ตึกสันติไมตรี ทำเนียบรัฐบาล นางสาวแพทองธาร ชินวัตร นายกรัฐมนตรี ในฐานะประธานกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ ร่วมแถลงข่าวเปิดเทศกาล ‘Thailand Winter Festivals’ ภายใต้แนวคิด “7 Wonders of Thailand” 
 
 
