@@ -13,7 +13,7 @@ collections:
     folder: 'content/thai/article'
     identifier_field: 'title'
     create: true
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     editor:
       preview: true
     fields:
@@ -29,7 +29,7 @@ collections:
     folder: 'content/thai/news'
     create: true
     identifier_field: 'title'
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}-{{minute}}-{{second}}"
     editor:
       preview: true
     fields:
