@@ -19,13 +19,6 @@
       {{ end }}
       </ul>
 
-      <h3 class="section-title">คณะอนุกรรมการอื่น ๆ</h3>
-      <ul>
-      {{ range where .Data.Pages "Params.tags" "intersect" (slice "SpecialSubcommittee") }}
-        <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-      {{ end }}
-      </ul>
-
   </div>
 </section>
 
