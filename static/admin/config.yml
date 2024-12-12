@@ -22,7 +22,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', timeFormat: false }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
-      - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "splash", "arts", "book", "design", "fashion", "festival", "film", "food", "games", "music", "series", "sport", "tourism"], widget: "select", multiple: true, required: false }
+      - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "splash", "arts", "book", "design", "fashion", "festival", "film", "food", "games", "music", "performance-art","series", "sport", "tourism", "wellness"], widget: "select", multiple: true, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'news'
     label: 'News (Thai)'
@@ -38,7 +38,7 @@ collections:
       - { label: 'Publish Date', name: 'date', widget: 'datetime', format: 'YYYY-MM-DD', timeFormat: false }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Draft', name: 'draft', widget: 'boolean', default: false }
-      - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "splash", "arts", "book", "design", "fashion", "festival", "film", "food", "games", "music", "series", "sport", "tourism"], widget: "select", multiple: true, required: false }
+      - { label: 'Tags', name: 'tags', options: ["committee", "subcommittee", "ofos", "people", "collaboration", "knowledge", "splash", "arts", "book", "design", "fashion", "festival", "film", "food", "games", "music", "performance-art", "series", "sport", "tourism", "wellness"], widget: "select", multiple: true, required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'committee'
     label: 'Committe (Thai)'
