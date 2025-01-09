@@ -13,7 +13,7 @@ draft: false
 <img width="100%" src="/images/thacca-hero.png">
 &nbsp;
 
-![](/images/thacca-คือใคร3.jpg)
+![]()
 
 ### เป้าหมายของนโยบาย
 
