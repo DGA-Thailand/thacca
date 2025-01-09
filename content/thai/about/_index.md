@@ -13,8 +13,6 @@ draft: false
 <img width="100%" src="/images/thacca-hero.png">
 &nbsp;
 
-![]()
-
 ### เป้าหมายของนโยบาย
 
 * พัฒนาแรงงานไทย 20 ล้านคนใน 4 ปี
