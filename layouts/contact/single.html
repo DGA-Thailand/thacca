@@ -1,0 +1,95 @@
+{{ define "main" }}
+
+<section class="section">
+    <div class="container">
+      <div class="content">
+  
+        <form id="contactForm">
+        <label for="fullName">Full Names:</label>
+        <input type="text" id="fullName" name="fullName" required>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+
+        <label for="topic">Topic:</label>
+        <select id="topic" name="topic" required>
+            <option value="">Select a topic</option>
+            <option value="General Inquiry">General Inquiry</option>
+            <option value="Support">Support</option>
+            <option value="Sales">Sales</option>
+            <option value="Feedback">Feedback</option>
+        </select>
+
+        <label for="subject">Subject:</label>
+        <input type="text" id="subject" name="subject" required>
+
+        <label for="details">Details:</label>
+        <textarea id="details" name="details" rows="4" required></textarea>
+
+        <button type="button" onclick="submitForm()">Submit</button>
+        <div id="message"></div>
+        </form>
+    
+        </div>
+    </div>
+</section>
+
+<script>
+function submitForm() {
+  const form = document.getElementById('contactForm');
+  const fullName = form.fullName.value;
+  const email = form.email.value;
+  const topic = form.topic.value;
+  const subject = form.subject.value;
+  const details = form.details.value;
+  const messageDiv = document.getElementById('message');
+
+  // Basic validation (you can add more robust validation)
+  if (!fullName || !email || !topic || !subject || !details) {
+    messageDiv.textContent = "Please fill in all fields.";
+    messageDiv.style.color = "red";
+    return;
+  }
+
+  // Simulate sending data (replace with your actual submission logic)
+  console.log("Full Names:", fullName);
+  console.log("Email:", email);
+  console.log("Topic:", topic);
+  console.log("Subject:", subject);
+  console.log("Details:", details);
+
+  // Clear form and display success message
+  form.reset();
+  messageDiv.textContent = "Form submitted successfully!";
+  messageDiv.style.color = "green";
+
+  // Here you would normally send the form data to a server using fetch or XMLHttpRequest.
+  // Example using fetch (replace with your server endpoint):
+  /*
+  fetch('/your-server-endpoint', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify({ fullName, email, topic, subject, details }),
+  })
+  .then(response => {
+    if (response.ok) {
+      form.reset();
+      messageDiv.textContent = "Form submitted successfully!";
+      messageDiv.style.color = "green";
+    } else {
+      messageDiv.textContent = "Error submitting form.";
+      messageDiv.style.color = "red";
+    }
+  })
+  .catch(error => {
+    console.error('Error:', error);
+    messageDiv.textContent = "An error occurred.";
+    messageDiv.style.color = "red";
+  });
+  */
+}
+</script>
+
+{{ end }}

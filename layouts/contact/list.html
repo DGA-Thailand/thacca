@@ -2,18 +2,122 @@
 
 <!-- contact -->
 <section class="section bg-gray">
+  <br /><br /><br />
   <div class="container">
     <div class="row">
     </div>
-    <div class="row">
-      </div>
+    <div class="row col-12">
       <div class="col-12 content">
+        <h3 class="section-title">ติดต่อเรา (Contact Us)</h3>
+        <p>หากมีข้อสงสัยหรือต้องการสอบถามข้อมูลเพิ่มเติม กรุณากรอกแบบฟอร์มด้านล่าง หรือส่งอีเมล์มาที่ <a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+
         {{ .Content }}
-        <p>{{ site.Params.address | markdownify }}</p>
-      </div-->
+
+        <form id="contactForm" class="col-12">
+          <label for="fullName">ชื่อ นามสกุล (Names):</label>
+          <input type="text" id="fullName" name="fullName" required>
+  
+          <label for="email">อีเมล (Email):</label>
+          <input type="email" id="email" name="email" required>
+  
+          <label for="topic">ประเด็นที่ต้องการติดต่อ (Topic):</label>
+          <select id="topic" name="topic" required>
+              <option value="">Select a topic</option>
+              <option value="Partnership">พันธมิตร (Partnership)</option>
+              <option value="Funding">ทุนและการสนับสนุน (Funding & Grants)</option>
+              <option value="Project">กิจกรรม (Project)</option>
+              <option value="Recommendation">ข้อเสนอแนะ (Recommendation)</option>
+              <option value="Others">อื่นๆ (Others)</option>
+          </select>
+  
+          <label for="subject">หัวข้อ (Subject):</label>
+          <input type="text" id="subject" name="subject" required>
+  
+          <label for="details">รายละเอียด (Details):</label>
+          <textarea id="details" name="details" rows="4" required></textarea>
+  
+          <button type="button" onclick="submitForm()">Submit</button>
+          <div id="message" class="bold"></div>
+          </form>
+      </div>
     </div>
   </div>
 </section>
+<script>
+  function submitForm() {
+    const form = document.getElementById('contactForm');
+    const fullName = form.fullName.value;
+    const email = form.email.value;
+    const topic = form.topic.value;
+    const subject = form.subject.value;
+    const details = form.details.value;
+    const messageDiv = document.getElementById('message');
+  
+    // Basic validation (you can add more robust validation)
+    if (!fullName || !email || !topic || !subject || !details) {
+      messageDiv.textContent = "Please fill in all fields.";
+      messageDiv.style.color = "red";
+      return;
+    }
+    
+    const api_url = "https://api.fillout.com/v1/api/forms/jLeWomXcqbus/submissions";
+    submissionTime = new Date().toISOString();
+    sData = { 
+      submissions: [
+        {
+          questions: [
+            {
+              id: "qBCm",
+              value: fullName
+            },
+            {
+              id: "vSeJ",
+              value: email
+            },
+            {
+              id: "sXUw",
+              value: topic
+            },
+            {
+              id: "nzMN",
+              value: subject
+            },
+            {
+              id: "nsyL",
+              value: details
+            }
+          ],
+          submissionTime: submissionTime
+      }
+      ]
+    };
+
+    fetch(api_url, {
+      method: 'POST',
+      headers: {
+        'Authorization': 'Bearer sk_prod_uUJVw4Q495BKMcT6XzqLx1tjEnn863dble6b5mY3dzkuK3cYMMtQIhKYQAtQx3a2oSXhS2AH2swClT49GrQDQsQxaoYyXvGsni6_18500',
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(sData),
+    })
+    
+    .then(response => {
+      if (response.ok) {
+        form.reset();
+        messageDiv.textContent = "Thank you for submitting the form. We will get back to you shortly.";
+        messageDiv.style.color = "green";
+      } else {
+        messageDiv.textContent = "Error submitting form.";
+        messageDiv.style.color = "red";
+      }
+    })
+    .catch(error => {
+      console.error('Error:', error);
+      messageDiv.textContent = "An error occurred."+error;
+      messageDiv.style.color = "red";
+    });
+  }
+</script>
 <!-- /contact -->
 
 <!-- gmap -- >
