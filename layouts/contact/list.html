@@ -60,43 +60,25 @@
       return;
     }
     
-    const api_url = "https://api.fillout.com/v1/api/forms/jLeWomXcqbus/submissions";
+    const api_url = "https://vpelomtmamvjoianxzma.supabase.co/rest/v1/Contact";
+    const public_key = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InZwZWxvbXRtYW12am9pYW54em1hIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDA3OTc3NDIsImV4cCI6MjA1NjM3Mzc0Mn0.9CFYgC1VelRmvTfmzAT2oWxRnYXOmTQqkM1lPTXtIlQ";
+
     submissionTime = new Date().toISOString();
-    sData = { 
-      submissions: [
-        {
-          questions: [
-            {
-              id: "qBCm",
-              value: fullName
-            },
-            {
-              id: "vSeJ",
-              value: email
-            },
-            {
-              id: "sXUw",
-              value: topic
-            },
-            {
-              id: "nzMN",
-              value: subject
-            },
-            {
-              id: "nsyL",
-              value: details
-            }
-          ],
-          submissionTime: submissionTime
-      }
-      ]
-    };
+    sData = {
+      fullname: fullName,	
+      email: email,
+      topic: topic,
+      subject: subject,
+      details: details
+}
 
     fetch(api_url, {
       method: 'POST',
       headers: {
-        'Authorization': 'Bearer sk_prod_uUJVw4Q495BKMcT6XzqLx1tjEnn863dble6b5mY3dzkuK3cYMMtQIhKYQAtQx3a2oSXhS2AH2swClT49GrQDQsQxaoYyXvGsni6_18500',
+        'apikey': public_key,
+        'Authorization': 'Bearer '+public_key,
         'Content-Type': 'application/json',
+        'prefer': 'return=minimum'
       },
       body: JSON.stringify(sData),
     })
