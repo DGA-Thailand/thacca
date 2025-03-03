@@ -179,41 +179,56 @@ h5 {
 
 #### **สาขาอุตสาหกรรรมวัฒนธรรมสร้างสรรค์ ที่ได้รับการสนับสนุนจาก THACCA**
 
-##### 1. ด้านหนังสือ
+<p><br></p>
+<table style="width: 100%; border-collapse: collapse; border: 0px solid rgb(255, 255, 255);">
+    <tbody>
+        <tr>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-13.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-12.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-11.jpg" style="width: 100%;object-fit;"><br></td>
 
-##### 2. ด้านอาหาร
+\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-10.jpg" style="width: 100%;object-fit;"><br></td>
 
-##### 3. ด้านดนตรี
+\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-9.jpg" style="width: 100%;object-fit;"><br></td>
+        </tr> </tr>
+    </tbody>
+</table>
 
-##### 4. ด้านเกม
+<p><br></p>
+<table style="width: 100%; border-collapse: collapse; border: 0px solid rgb(255, 255, 255);">
+    <tbody>
+        <tr>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-8.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-7.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-6.jpg" style="width: 100%;object-fit;"><br></td>
 
-##### 5. ด้านกีฬา
+\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-5.jpg" style="width: 100%;object-fit;"><br></td>
 
-##### 6. ด้านแฟชั่น
+\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-4.jpg" style="width: 100%;object-fit;"><br></td>
+        </tr> </tr>
+    </tbody>
+</table>
 
-##### 7. ด้านการออกแบบ
+<p><br></p>
+<table style="width: 100%; border-collapse: collapse; border: 0px solid rgb(255, 255, 255);">
+    <tbody>
+        <tr>
 
-##### 8. ด้านการท่องเที่ยว
+\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-3.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-2.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-1.jpg" style="width: 100%;object-fit;"><br></td>
 
-##### 9. ด้านเฟสติวัล (เทศกาล)
-
-##### 10. ด้านศิลปะ 
-
-##### 11. ศิลปะการแสดง
-
-##### 12. ด้านภาพยนตร์ สารคดี และแอนิเมชัน
-
-##### 13. ด้านละคร และซีรีส์
-
-##### 14. ด้านเวลเนส (Wellness)
+\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
+        </tr> </tr>
+    </tbody>
+</table>
 
 <p><br></p>
 
 ##### **\*\*หมายเหตุ** : ปัจจุบัน ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์ พ.ศ. … ยังอยู่ในกระบวนการจัดทำและพิจารณาทางกฎหมาย จึงทำให้ สำนักงานส่งเสริมวัฒนธรรมสร้างสรรค์ ยังไม่มีการจัดตั้งอย่างเป็นทางการ แต่ใช้โครงสร้างของคณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ คณะกรรมการพัฒนาซอฟต์พาวเวอร์แห่งชาติ และคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านต่างๆ ในการขับเคลื่อนงานพัฒนาซอฟต์พาวเวอร์ในช่วงระยะเริ่มแรก\*\*
 
-##### อ่าน ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์ พ.ศ. ... ได้ที่นี่
-
-<https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link>
+##### กดอ่าน [ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์ พ.ศ. ...](https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link)[](https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link)[](https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link)
 
 <p><br></p>
 
