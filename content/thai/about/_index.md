@@ -17,7 +17,8 @@ draft: false
         font-family: "IBM Plex Sans Thai", sans-serif;
         font-weight: bold;
         font-size: 32px;
-        line-height: 1.8;
+        line-height: 1.8;\
+        text-align: center;
     }
 
     h4 {
@@ -192,6 +193,7 @@ h5 {
 \    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-9.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
     </tbody>
+
 </table>
 
 <p><br></p>
@@ -207,6 +209,7 @@ h5 {
 \    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-4.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
     </tbody>
+
 </table>
 
 <p><br></p>
@@ -222,6 +225,7 @@ h5 {
 \    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
         </tr> </tr>
     </tbody>
+
 </table>
 
 <p><br></p>
