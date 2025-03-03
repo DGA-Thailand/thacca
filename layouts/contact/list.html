@@ -36,8 +36,8 @@
           <label for="details">รายละเอียด (Details):</label>
           <textarea id="details" name="details" rows="4" required></textarea>
   
-          <button type="button" onclick="submitForm()">Submit</button>
-          <div id="message" class="bold"></div>
+          <button type="button" class="btn-primary" onclick="submitForm()">Submit</button>
+          <div id="message" class="alert bold" role="alert" style="visibility: hidden; color: black;"></div>
           </form>
       </div>
     </div>
@@ -87,16 +87,19 @@
       if (response.ok) {
         form.reset();
         messageDiv.textContent = "Thank you for submitting the form. We will get back to you shortly.";
-        messageDiv.style.color = "green";
+        messageDiv.classList.add("alert-success");
+        messageDiv.style.visibility = "visible";
       } else {
         messageDiv.textContent = "Error submitting form.";
-        messageDiv.style.color = "red";
+        messageDiv.classList.add("alert-danger");
+        messageDiv.style.visibility = "visible";
       }
     })
     .catch(error => {
       console.error('Error:', error);
       messageDiv.textContent = "An error occurred."+error;
-      messageDiv.style.color = "red";
+      messageDiv.classList.add("alert-danger");
+      messageDiv.style.visibility = "visible";
     });
   }
 </script>
