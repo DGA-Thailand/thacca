@@ -207,7 +207,7 @@ h2 {
 <table style="width: 100%; border-collapse: collapse; border: 0px solid rgb(255, 255, 255);">
     <tbody>
         <tr>
-            <td style="width: 50%; border: 0px solid rgb(255, 255, 255);">
+            <td style="width: 50%; border: 0px solid rgb(255, 255, 255); vertical-align: top;">
 
 ##### 1.  จัดทำแผนยุทธศาสตร์ และแผนปฏิบัติการส่งเสริมวัฒนธรรมสร้างสรรค์
 
@@ -220,7 +220,7 @@ h2 {
 ##### 5.  จัดทำฐานข้อมูล ด้านอุตสาหกรรมวัฒนธรรมสร้างสรรค์
 
 <br></td>
-            <td style="width: 50%; border: 0px solid rgb(255, 255, 255);">
+            <td style="width: 50%; border: 0px solid rgb(255, 255, 255); vertical-align: top;">
 
 ##### 6.  กำหนดสิทธิประโยชน์ทางภาษี และส่งเสริมการแข่งขันทางการค้าให้เสรีและเป็นธรรม
 
