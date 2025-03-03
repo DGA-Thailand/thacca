@@ -17,7 +17,7 @@ draft: false
         font-family: "IBM Plex Sans Thai", sans-serif;
         font-weight: bold;
         font-size: 32px;
-        line-height: 1.8;\
+        line-height: 1.8;
         text-align: center;
     }
 
