@@ -26,7 +26,7 @@ draft: false
         font-family: "IBM Plex Sans Thai", sans-serif;
         font-weight: bold;
         font-size: 20px;
-        line-height: 1.8;\
+        line-height: 1.8;
         text-align: center;
     }
 
@@ -72,6 +72,8 @@ h2 {
 
 ## “เสน่ห์” (Attraction) หรือแรงดึงดูดที่ทำให้ผู้คนยอมทำในสิ่งที่เราอยากให้เขาทำโดยสมัครใจ
 
+<p><br></p>
+
 ## สำหรับประเทศไทย เรามี “เสน่ห์” มากมายที่ชวนให้คนทั่วโลกได้หลงใหล ไม่ว่าจะเป็น
 
 #### “ทุนทางวัฒนธรรม” เช่น เทศกาลประเพณี อาหารไทย มวยไทย นวดไทย สถานที่ท่องเที่ยว 
@@ -88,9 +90,13 @@ h2 {
 
 <p><br></p>
 
-## รัฐบาลเล็งเห็นศักยภาพของ “ฝีมือ” คนไทยทุกคนที่ขับเคลื่อนซอฟต์พาวเวอร์ ในฐานะเครื่องมือสร้างโอกาสทางเศรษฐกิจและยกระดับคุณภาพชีวิตของคนไทย จึงได้รวบรวมความเห็นจากผู้คนทุกวงการที่เกี่ยวข้องกับอุตสาหกรรมวัฒนธรรมสร้างสรรค์ และร่วมกันกำหนดนโยบายที่ครอบคลุมทุกภาคส่วน จนเกิดเป็น “นโยบายพัฒนาซอฟต์พาวเวอร์ไทย”
+## รัฐบาลเล็งเห็นศักยภาพของ “ฝีมือ” คนไทยทุกคนที่ขับเคลื่อนซอฟต์พาวเวอร์ ในฐานะเครื่องมือสร้างโอกาสทางเศรษฐกิจและยกระดับคุณภาพชีวิตของคนไทย จึงได้รวบรวมความเห็นจากผู้คนทุกวงการที่เกี่ยวข้องกับอุตสาหกรรมวัฒนธรรมสร้างสรรค์ และร่วมกันกำหนดนโยบายที่ครอบคลุมทุกภาคส่วน 
 
-## โดยรัฐบาลได้กำหนด วิสัยทัศน์ของนโยบายพัฒนาซอฟต์พาวเวอร์ ไว้ว่า
+## จนเกิดเป็น “นโยบายพัฒนาซอฟต์พาวเวอร์ไทย”
+
+<p><br></p>
+
+## รัฐบาลได้กำหนด วิสัยทัศน์ของนโยบายพัฒนาซอฟต์พาวเวอร์ ไว้ว่า
 
 #### *“ซอฟต์พาวเวอร์ จะเป็นหนึ่งในยุทธศาสตร์ใหม่ ที่จะขับเคลื่อนประเทศไทยให้หลุดพ้นจากกับดักรายได้ปานกลาง สู่ประเทศที่มีรายได้สูง”*
 
@@ -128,7 +134,9 @@ h2 {
 
 #### **หนึ่งครอบครัว หนึ่งซอฟต์พาวเวอร์ หรือ One Family One Soft Power (OFOS)**
 
-## ต้นน้ำของซอฟต์พาวเวอร์ คือ ฝีมือคน รัฐบาลจึงสร้างระบบแพลตฟอร์มที่เปิดโอกาสให้คนไทยทุกคน สามารถเข้าถึงการฝึกอบรม เพื่อยกระดับทักษะเดิม (Re-skill) เพิ่มเติมทักษะใหม่ (Up-skill) ผ่านโครงการ “หนึ่งครอบครัว หนึ่งซอฟต์พาวเวอร์” หรือ One Family One Soft Power (OFOS) 
+## ต้นน้ำของซอฟต์พาวเวอร์ คือ ฝีมือคน รัฐบาลจึงสร้างระบบแพลตฟอร์มที่เปิดโอกาสให้คนไทยทุกคน สามารถเข้าถึงการฝึกอบรม เพื่อยกระดับทักษะเดิม (Re-skill) เพิ่มเติมทักษะใหม่ (Up-skill) 
+
+## ผ่านโครงการ “หนึ่งครอบครัว หนึ่งซอฟต์พาวเวอร์” หรือ One Family One Soft Power (OFOS) 
 
 ## โครงการ OFOS จะเปิดให้ทุกคน ทุกครอบครัว สามารถเข้าฝึกอบรมทักษะสร้างสรรค์โดย “ไม่จำกัดอายุ ไม่จำกัดวุฒิการศึกษา และไม่เสียค่าใช้จ่าย” มีทั้งการเรียนในระบบออนไลน์ (Online) และออนไซต์ (On-site) รวมไปถึงการทำค่ายอบรม การจัด Workshop และการเสวนาต่าง ๆ มากมาย โดยรัฐบาลและภาคเอกชนได้ร่วมกันออกแบบหลักสูตรที่ใช้ได้จริง เรียนจบแล้วสามารถทำงานได้ทันที ตอบสนองความต้องการของอุตสาหกรรมและเติมเต็มช่องว่างของตลาดแรงงาน
 
@@ -240,15 +248,15 @@ h2 {
         <tr>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-13.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-12.jpg" style="width: 100%;object-fit;"><br></td>
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-11.jpg" style="width: 100%;object-fit;"><br></td>\
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-10.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-11.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-10.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-9.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
         <tr>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-8.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-7.jpg" style="width: 100%;object-fit;"><br></td>
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-6.jpg" style="width: 100%;object-fit;"><br></td>\
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-5.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-6.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-5.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-4.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
         <tr>
@@ -256,7 +264,7 @@ h2 {
    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-3.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-2.jpg" style="width: 100%;object-fit;"><br></td>
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-1.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-1.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
         </tr> </tr>
     </tbody>
@@ -267,7 +275,7 @@ h2 {
 
 ##### **\*\*หมายเหตุ** : ปัจจุบัน ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์ พ.ศ. … ยังอยู่ในกระบวนการจัดทำและพิจารณาทางกฎหมาย จึงทำให้ สำนักงานส่งเสริมวัฒนธรรมสร้างสรรค์ ยังไม่มีการจัดตั้งอย่างเป็นทางการ แต่ใช้โครงสร้างของคณะกรรมการยุทธศาสตร์ซอฟต์พาวเวอร์แห่งชาติ คณะกรรมการพัฒนาซอฟต์พาวเวอร์แห่งชาติ และคณะอนุกรรมการขับเคลื่อนอุตสาหกรรมด้านต่างๆ ในการขับเคลื่อนงานพัฒนาซอฟต์พาวเวอร์ในช่วงระยะเริ่มแรก\*\*
 
-#### กดอ่าน [ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์ พ.ศ. ...](https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link)[](https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link)[](https://drive.google.com/file/d/1Q9vDPtuhbDJ82taqC4gn8xpTt7qcX0ZT/view?usp=drive_link)
+#### กดอ่าน [ร่างพระราชบัญญัติส่งเสริมวัฒนธรรมสร้างสรรค์ พ.ศ. ...](<>)[](<>)[](<>)
 
 <p><br></p>
 
