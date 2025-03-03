@@ -16,7 +16,7 @@ draft: false
         color: #ca2031;
         font-family: "IBM Plex Sans Thai", sans-serif;
         font-weight: bold;
-        font-size: 26px;
+        font-size: 32px;
         line-height: 1.8;
     }
 
@@ -79,6 +79,8 @@ h5 {
 <p><br></p>
 
 ### เข้าใจนโยบายซอฟต์พาวเวอร์ได้ ภายใน 3 นาที
+
+<p><br></p>
 
 <iframe width="100%" height="600" src="https://www.youtube.com/embed/5nr3BfPtMfg?si=UMuhHs4zURDWYVFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -144,6 +146,8 @@ h5 {
 ##### (3) ยกระดับอุตสาหกรรมและพัฒนาขีดความสามารถในการแข่งขันทางเศรษฐกิจ
 
 ##### (4) ส่งเสริมบทบาทความเป็นผู้นำของประเทศไทยในเวทีระหว่างประเทศ
+
+<p><br></p>
 
 #### **ภารกิจของ THACCA**
 
@@ -220,4 +224,4 @@ h5 {
     </tbody>
 </table>
 
-<p><br></p>\[](https://drive.google.com/drive/folders/1gWBPqBEWQgNB-Ir6oGqXvqke-JSkHpLk)
+<p><br></p>
