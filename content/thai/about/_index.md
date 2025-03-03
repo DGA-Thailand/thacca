@@ -186,11 +186,9 @@ h5 {
         <tr>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-13.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-12.jpg" style="width: 100%;object-fit;"><br></td>
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-11.jpg" style="width: 100%;object-fit;"><br></td>
-
-\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-10.jpg" style="width: 100%;object-fit;"><br></td>
-
-\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-9.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-11.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-10.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-9.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
     </tbody>
 
@@ -202,11 +200,9 @@ h5 {
         <tr>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-8.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-7.jpg" style="width: 100%;object-fit;"><br></td>
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-6.jpg" style="width: 100%;object-fit;"><br></td>
-
-\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-5.jpg" style="width: 100%;object-fit;"><br></td>
-
-\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-4.jpg" style="width: 100%;object-fit;"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-6.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-5.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-4.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
     </tbody>
 
@@ -217,12 +213,11 @@ h5 {
     <tbody>
         <tr>
 
-\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
+   <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-3.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-2.jpg" style="width: 100%;object-fit;"><br></td>
-            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-1.jpg" style="width: 100%;object-fit;"><br></td>
-
-\    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-1.jpg" style="width: 100%;object-fit;"><br></td>\
+            <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
         </tr> </tr>
     </tbody>
 
