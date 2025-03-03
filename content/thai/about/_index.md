@@ -42,7 +42,7 @@ h5 {
         font-family: "IBM Plex Sans Thai", sans-serif;
         font-weight: bold;
         font-size: 20px;
-        line-height: 1.8;\
+        line-height: 1.8;
         text-align: center;
     }
 
@@ -51,7 +51,7 @@ h2 {
         font-family: "sarabun", sans-serif;
         font-weight: lighter;
         font-size: 18px;
-        line-height: 1.8;\
+        line-height: 1.8;
         text-align: center;
     }
 
@@ -123,7 +123,9 @@ h2 {
 
 <p><br></p>
 
-### **1. สร้างคน** 
+### **1. สร้างคน**
+
+<p><br></p>
 
 # **หนึ่งครอบครัว หนึ่งซอฟต์พาวเวอร์ หรือ One Family One Soft Power (OFOS)**
 
@@ -135,7 +137,9 @@ h2 {
 
 <p><br></p>
 
-### **2. สร้างงาน** 
+### **2. สร้างงาน**
+
+<p><br></p>
 
 # **สำนักงานส่งเสริมวัฒนธรรมสร้างสรรค์ หรือ Thailand Creative Culture Agency (THACCA)**
 
@@ -147,7 +151,9 @@ h2 {
 
 <p><br></p>
 
-### **3. สร้างตลาด** 
+### **3. สร้างตลาด**
+
+<p><br></p>
 
 # **การทูตทางวัฒนธรรมสร้างสรรค์ (Creative Cultural Diplomacy)**
 
@@ -239,11 +245,6 @@ h2 {
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-10.jpg" style="width: 100%;object-fit;"><br></td>\
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-9.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
-    </tbody>
-
-<p><br></p>
-<table style="width: 100%; border-collapse: collapse; border: 0px solid rgb(255, 255, 255);">
-    <tbody>
         <tr>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-8.jpg" style="width: 100%;object-fit;"><br></td>
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-7.jpg" style="width: 100%;object-fit;"><br></td>
@@ -251,11 +252,6 @@ h2 {
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-5.jpg" style="width: 100%;object-fit;"><br></td>\
             <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><img src="/images/asset-4.jpg" style="width: 100%;object-fit;"><br></td>
         </tr> </tr>
-    </tbody>
-
-<p><br></p>
-<table style="width: 100%; border-collapse: collapse; border: 0px solid rgb(255, 255, 255);">
-    <tbody>
         <tr>
 
    <td style="width: 20%; border: 0px solid rgb(255, 255, 255);"><br></td>
